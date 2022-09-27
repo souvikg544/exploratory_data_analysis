@@ -1,0 +1,1837 @@
+id,country,state,city,station,pollutant_id,last_update,pollutant_min,pollutant_max,pollutant_avg
+1,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM2.5,"21-10-2021 01:00:00",69,109,86
+2,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM10,"21-10-2021 01:00:00",82,138,105
+3,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NO2,"21-10-2021 01:00:00",10,42,19
+4,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NH3,"21-10-2021 01:00:00",4,5,4
+5,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",SO2,"21-10-2021 01:00:00",16,42,27
+6,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",CO,"21-10-2021 01:00:00",15,45,32
+7,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",OZONE,"21-10-2021 01:00:00",4,82,42
+8,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM2.5,"21-10-2021 01:00:00",47,111,71
+9,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM10,"21-10-2021 01:00:00",49,120,86
+10,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NO2,"21-10-2021 01:00:00",11,44,23
+11,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NH3,"21-10-2021 01:00:00",2,6,4
+12,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",SO2,"21-10-2021 01:00:00",1,9,5
+13,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",CO,"21-10-2021 01:00:00",2,52,20
+14,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",OZONE,"21-10-2021 01:00:00",2,34,18
+15,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM2.5,"21-10-2021 01:00:00",76,131,92
+16,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM10,"21-10-2021 01:00:00",66,120,86
+17,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NO2,"21-10-2021 01:00:00",14,88,49
+18,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NH3,"21-10-2021 01:00:00",1,3,2
+19,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",SO2,"21-10-2021 01:00:00",4,10,7
+20,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",CO,"21-10-2021 01:00:00",39,68,51
+21,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",OZONE,"21-10-2021 01:00:00",9,49,25
+22,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM2.5,"21-10-2021 01:00:00",78,312,202
+23,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM10,"21-10-2021 01:00:00",77,276,157
+24,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NO2,"21-10-2021 01:00:00",13,187,91
+25,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NH3,"21-10-2021 01:00:00",2,9,4
+26,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",SO2,"21-10-2021 01:00:00",2,15,10
+27,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",CO,"21-10-2021 01:00:00",25,154,46
+28,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",OZONE,"21-10-2021 01:00:00",5,46,25
+29,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",PM2.5,"21-10-2021 01:00:00",1,31,11
+30,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",NO2,"21-10-2021 01:00:00",1,13,5
+31,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",NH3,"21-10-2021 01:00:00",1,4,2
+32,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",SO2,"21-10-2021 01:00:00",82,101,88
+33,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",CO,"21-10-2021 01:00:00",1,28,7
+34,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",OZONE,"21-10-2021 01:00:00",13,24,20
+35,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",PM2.5,"21-10-2021 01:00:00",2,38,11
+36,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",PM10,"21-10-2021 01:00:00",6,32,14
+37,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",NO2,"21-10-2021 01:00:00",5,5,5
+38,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",NH3,"21-10-2021 01:00:00",1,1,1
+39,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",SO2,"21-10-2021 01:00:00",37,40,38
+40,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",CO,"21-10-2021 01:00:00",10,19,11
+41,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",OZONE,"21-10-2021 01:00:00",18,21,20
+42,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",PM2.5,"21-10-2021 01:00:00",52,282,101
+43,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",NO2,"21-10-2021 01:00:00",5,7,6
+44,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",SO2,"21-10-2021 01:00:00",13,17,15
+45,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",CO,"21-10-2021 01:00:00",55,67,59
+46,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",OZONE,"21-10-2021 01:00:00",10,11,11
+47,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",PM2.5,"21-10-2021 01:00:00",18,70,45
+48,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",PM10,"21-10-2021 01:00:00",30,60,42
+49,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",NO2,"21-10-2021 01:00:00",15,42,24
+50,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",NH3,"21-10-2021 01:00:00",1,4,2
+51,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",SO2,"21-10-2021 01:00:00",1,6,3
+52,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",CO,"21-10-2021 01:00:00",38,54,42
+53,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",OZONE,"21-10-2021 01:00:00",1,49,17
+54,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",PM2.5,"21-10-2021 01:00:00",35,131,83
+55,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",PM10,"21-10-2021 01:00:00",35,85,60
+56,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",NO2,"21-10-2021 01:00:00",9,11,10
+57,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",NH3,"21-10-2021 01:00:00",1,3,1
+58,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",SO2,"21-10-2021 01:00:00",2,11,7
+59,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",CO,"21-10-2021 01:00:00",36,80,72
+60,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",OZONE,"21-10-2021 01:00:00",3,59,35
+61,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",PM2.5,"21-10-2021 01:00:00",34,95,51
+62,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",PM10,"21-10-2021 01:00:00",43,123,65
+63,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",NO2,"21-10-2021 01:00:00",10,18,13
+64,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",NH3,"21-10-2021 01:00:00",3,4,4
+65,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",SO2,"21-10-2021 01:00:00",1,106,10
+66,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",CO,"21-10-2021 01:00:00",13,58,46
+67,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",OZONE,"21-10-2021 01:00:00",2,103,50
+68,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",PM2.5,"21-10-2021 01:00:00",10,474,77
+69,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",NO2,"21-10-2021 01:00:00",2,15,4
+70,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",SO2,"21-10-2021 01:00:00",4,12,8
+71,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",CO,"21-10-2021 01:00:00",32,72,52
+72,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",OZONE,"21-10-2021 01:00:00",9,15,13
+73,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",PM2.5,"21-10-2021 01:00:00",35,76,55
+74,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",PM10,"21-10-2021 01:00:00",76,148,114
+75,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",NO2,"21-10-2021 01:00:00",1,295,64
+76,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",NH3,"21-10-2021 01:00:00",2,54,12
+77,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",SO2,"21-10-2021 01:00:00",4,5,4
+78,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",CO,"21-10-2021 01:00:00",25,100,45
+79,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",OZONE,"21-10-2021 01:00:00",37,42,39
+80,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",PM2.5,"21-10-2021 01:00:00",32,97,65
+81,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",PM10,"21-10-2021 01:00:00",32,108,77
+82,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",NO2,"21-10-2021 01:00:00",10,38,25
+83,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",NH3,"21-10-2021 01:00:00",2,3,2
+84,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",SO2,"21-10-2021 01:00:00",8,24,16
+85,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",CO,"21-10-2021 01:00:00",16,56,40
+86,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",OZONE,"21-10-2021 01:00:00",17,49,33
+87,India,Bihar,Patna,"Muradpur, Patna - BSPCB",PM2.5,"21-10-2021 01:00:00",21,64,46
+88,India,Bihar,Patna,"Muradpur, Patna - BSPCB",PM10,"21-10-2021 01:00:00",57,136,111
+89,India,Bihar,Patna,"Muradpur, Patna - BSPCB",NO2,"21-10-2021 01:00:00",12,69,26
+90,India,Bihar,Patna,"Muradpur, Patna - BSPCB",NH3,"21-10-2021 01:00:00",4,32,6
+91,India,Bihar,Patna,"Muradpur, Patna - BSPCB",SO2,"21-10-2021 01:00:00",5,10,8
+92,India,Bihar,Patna,"Muradpur, Patna - BSPCB",CO,"21-10-2021 01:00:00",57,112,98
+93,India,Bihar,Patna,"Muradpur, Patna - BSPCB",OZONE,"21-10-2021 01:00:00",37,207,137
+94,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",PM2.5,"21-10-2021 01:00:00",51,144,84
+95,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",PM10,"21-10-2021 01:00:00",50,127,95
+96,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",NO2,"21-10-2021 01:00:00",14,61,32
+97,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",NH3,"21-10-2021 01:00:00",3,4,4
+98,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",SO2,"21-10-2021 01:00:00",1,6,3
+99,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",CO,"21-10-2021 01:00:00",22,81,44
+100,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",OZONE,"21-10-2021 01:00:00",5,61,27
+101,India,Bihar,Patna,"Samanpura, Patna - BSPCB",PM2.5,"21-10-2021 01:00:00",61,166,107
+102,India,Bihar,Patna,"Samanpura, Patna - BSPCB",PM10,"21-10-2021 01:00:00",41,114,94
+103,India,Bihar,Patna,"Samanpura, Patna - BSPCB",NO2,"21-10-2021 01:00:00",4,16,13
+104,India,Bihar,Patna,"Samanpura, Patna - BSPCB",NH3,"21-10-2021 01:00:00",4,28,5
+105,India,Bihar,Patna,"Samanpura, Patna - BSPCB",SO2,"21-10-2021 01:00:00",2,13,6
+106,India,Bihar,Patna,"Samanpura, Patna - BSPCB",CO,"21-10-2021 01:00:00",19,36,28
+107,India,Bihar,Patna,"Samanpura, Patna - BSPCB",OZONE,"21-10-2021 01:00:00",5,68,32
+108,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",PM2.5,"21-10-2021 01:00:00",87,260,138
+109,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",PM10,"21-10-2021 01:00:00",95,173,120
+110,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",NO2,"21-10-2021 01:00:00",26,134,58
+111,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",NH3,"21-10-2021 01:00:00",4,7,5
+112,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",SO2,"21-10-2021 01:00:00",7,35,15
+113,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",CO,"21-10-2021 01:00:00",34,104,40
+114,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",OZONE,"21-10-2021 01:00:00",11,219,200
+115,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",PM2.5,"21-10-2021 01:00:00",51,86,66
+116,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",PM10,"21-10-2021 01:00:00",78,125,99
+117,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",NO2,"21-10-2021 01:00:00",6,86,26
+118,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",NH3,"21-10-2021 01:00:00",8,23,12
+119,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",SO2,"21-10-2021 01:00:00",2,11,6
+120,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",CO,"21-10-2021 01:00:00",36,86,41
+121,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",OZONE,"21-10-2021 01:00:00",3,67,22
+122,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",PM2.5,"21-10-2021 01:00:00",31,162,61
+123,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",PM10,"21-10-2021 01:00:00",43,121,78
+124,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",NO2,"21-10-2021 01:00:00",15,20,17
+125,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",SO2,"21-10-2021 01:00:00",9,15,12
+126,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",CO,"21-10-2021 01:00:00",7,75,55
+127,India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",88,315,223
+128,India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM10,"21-10-2021 01:00:00",105,403,199
+129,India,Delhi,Delhi,"Alipur, Delhi - DPCC",NO2,"21-10-2021 01:00:00",8,109,48
+130,India,Delhi,Delhi,"Alipur, Delhi - DPCC",NH3,"21-10-2021 01:00:00",NA,NA,NA
+131,India,Delhi,Delhi,"Alipur, Delhi - DPCC",SO2,"21-10-2021 01:00:00",6,15,9
+132,India,Delhi,Delhi,"Alipur, Delhi - DPCC",CO,"21-10-2021 01:00:00",30,83,38
+133,India,Delhi,Delhi,"Alipur, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",2,69,19
+134,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",113,344,235
+135,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM10,"21-10-2021 01:00:00",NA,NA,NA
+136,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NO2,"21-10-2021 01:00:00",75,171,128
+137,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NH3,"21-10-2021 01:00:00",3,9,6
+138,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",SO2,"21-10-2021 01:00:00",15,33,24
+139,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",CO,"21-10-2021 01:00:00",NA,NA,NA
+140,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",4,47,15
+141,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",85,233,139
+142,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM10,"21-10-2021 01:00:00",129,281,190
+143,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NO2,"21-10-2021 01:00:00",10,51,30
+144,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NH3,"21-10-2021 01:00:00",3,5,4
+145,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",SO2,"21-10-2021 01:00:00",12,38,25
+146,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",CO,"21-10-2021 01:00:00",10,130,27
+147,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",8,147,44
+148,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM2.5,"21-10-2021 01:00:00",60,274,136
+149,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM10,"21-10-2021 01:00:00",111,206,148
+150,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",NO2,"21-10-2021 01:00:00",16,45,28
+151,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",CO,"21-10-2021 01:00:00",2,122,7
+152,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",OZONE,"21-10-2021 01:00:00",15,25,20
+153,India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",83,348,240
+154,India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM10,"21-10-2021 01:00:00",133,423,205
+155,India,Delhi,Delhi,"Bawana, Delhi - DPCC",NO2,"21-10-2021 01:00:00",3,71,23
+156,India,Delhi,Delhi,"Bawana, Delhi - DPCC",NH3,"21-10-2021 01:00:00",5,6,5
+157,India,Delhi,Delhi,"Bawana, Delhi - DPCC",SO2,"21-10-2021 01:00:00",4,16,5
+158,India,Delhi,Delhi,"Bawana, Delhi - DPCC",CO,"21-10-2021 01:00:00",18,95,31
+159,India,Delhi,Delhi,"Bawana, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",3,62,19
+160,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM2.5,"21-10-2021 01:00:00",54,321,177
+161,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM10,"21-10-2021 01:00:00",104,237,152
+162,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",NO2,"21-10-2021 01:00:00",21,33,26
+163,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",CO,"21-10-2021 01:00:00",102,161,105
+164,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",OZONE,"21-10-2021 01:00:00",15,36,18
+165,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",PM2.5,"21-10-2021 01:00:00",43,247,137
+166,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",PM10,"21-10-2021 01:00:00",111,408,220
+167,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",NO2,"21-10-2021 01:00:00",4,84,15
+168,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",NH3,"21-10-2021 01:00:00",7,8,8
+169,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",SO2,"21-10-2021 01:00:00",6,22,11
+170,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",CO,"21-10-2021 01:00:00",75,123,87
+171,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",OZONE,"21-10-2021 01:00:00",1,32,11
+172,India,Delhi,Delhi,"DTU, Delhi - CPCB",PM2.5,"21-10-2021 01:00:00",86,336,199
+173,India,Delhi,Delhi,"DTU, Delhi - CPCB",PM10,"21-10-2021 01:00:00",113,261,164
+174,India,Delhi,Delhi,"DTU, Delhi - CPCB",NO2,"21-10-2021 01:00:00",28,138,73
+175,India,Delhi,Delhi,"DTU, Delhi - CPCB",NH3,"21-10-2021 01:00:00",10,35,19
+176,India,Delhi,Delhi,"DTU, Delhi - CPCB",SO2,"21-10-2021 01:00:00",6,8,7
+177,India,Delhi,Delhi,"DTU, Delhi - CPCB",CO,"21-10-2021 01:00:00",29,122,49
+178,India,Delhi,Delhi,"DTU, Delhi - CPCB",OZONE,"21-10-2021 01:00:00",20,86,31
+179,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",70,303,174
+180,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM10,"21-10-2021 01:00:00",131,281,173
+181,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NO2,"21-10-2021 01:00:00",74,141,106
+182,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NH3,"21-10-2021 01:00:00",3,6,4
+183,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",SO2,"21-10-2021 01:00:00",5,11,8
+184,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",CO,"21-10-2021 01:00:00",22,119,32
+185,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",4,168,48
+186,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",PM2.5,"21-10-2021 01:00:00",67,333,208
+187,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",PM10,"21-10-2021 01:00:00",175,500,293
+188,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",NO2,"21-10-2021 01:00:00",11,69,36
+189,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",NH3,"21-10-2021 01:00:00",1,13,10
+190,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",SO2,"21-10-2021 01:00:00",1,8,4
+191,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",CO,"21-10-2021 01:00:00",5,124,41
+192,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",OZONE,"21-10-2021 01:00:00",1,16,6
+193,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM2.5,"21-10-2021 01:00:00",14,96,49
+194,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM10,"21-10-2021 01:00:00",120,220,156
+195,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",NO2,"21-10-2021 01:00:00",49,110,77
+196,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",CO,"21-10-2021 01:00:00",90,108,105
+197,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",OZONE,"21-10-2021 01:00:00",9,21,10
+198,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",PM2.5,"21-10-2021 01:00:00",66,367,280
+199,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",PM10,"21-10-2021 01:00:00",133,180,153
+200,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NO2,"21-10-2021 01:00:00",65,125,99
+201,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NH3,"21-10-2021 01:00:00",7,29,15
+202,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",SO2,"21-10-2021 01:00:00",5,21,13
+203,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",CO,"21-10-2021 01:00:00",22,110,84
+204,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",OZONE,"21-10-2021 01:00:00",9,57,12
+205,India,Delhi,Delhi,"ITO, Delhi - CPCB",PM2.5,"21-10-2021 01:00:00",68,304,159
+206,India,Delhi,Delhi,"ITO, Delhi - CPCB",NO2,"21-10-2021 01:00:00",22,64,35
+207,India,Delhi,Delhi,"ITO, Delhi - CPCB",NH3,"21-10-2021 01:00:00",7,9,8
+208,India,Delhi,Delhi,"ITO, Delhi - CPCB",SO2,"21-10-2021 01:00:00",6,19,12
+209,India,Delhi,Delhi,"ITO, Delhi - CPCB",CO,"21-10-2021 01:00:00",34,178,43
+210,India,Delhi,Delhi,"ITO, Delhi - CPCB",OZONE,"21-10-2021 01:00:00",10,39,17
+211,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+212,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM10,"21-10-2021 01:00:00",NA,NA,NA
+213,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",NH3,"21-10-2021 01:00:00",NA,NA,NA
+214,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",CO,"21-10-2021 01:00:00",22,60,41
+215,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",3,21,11
+216,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",73,315,173
+217,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM10,"21-10-2021 01:00:00",127,213,160
+218,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NO2,"21-10-2021 01:00:00",31,120,72
+219,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NH3,"21-10-2021 01:00:00",4,6,5
+220,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",SO2,"21-10-2021 01:00:00",1,23,10
+221,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",CO,"21-10-2021 01:00:00",5,122,13
+222,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",8,9,8
+223,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",PM2.5,"21-10-2021 01:00:00",82,223,157
+224,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",PM10,"21-10-2021 01:00:00",71,137,109
+225,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",NO2,"21-10-2021 01:00:00",30,107,68
+226,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",NH3,"21-10-2021 01:00:00",10,23,15
+227,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",SO2,"21-10-2021 01:00:00",3,3,4
+228,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",CO,"21-10-2021 01:00:00",58,70,65
+229,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",OZONE,"21-10-2021 01:00:00",15,22,17
+230,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM2.5,"21-10-2021 01:00:00",70,304,153
+231,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM10,"21-10-2021 01:00:00",106,192,145
+232,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",NO2,"21-10-2021 01:00:00",10,28,17
+233,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",CO,"21-10-2021 01:00:00",18,75,22
+234,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",OZONE,"21-10-2021 01:00:00",15,154,22
+235,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",73,308,170
+236,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM10,"21-10-2021 01:00:00",137,274,184
+237,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NO2,"21-10-2021 01:00:00",18,72,43
+238,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NH3,"21-10-2021 01:00:00",7,11,9
+239,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",SO2,"21-10-2021 01:00:00",4,8,6
+240,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",CO,"21-10-2021 01:00:00",20,125,31
+241,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",2,80,18
+242,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",35,348,185
+243,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM10,"21-10-2021 01:00:00",108,216,152
+244,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NO2,"21-10-2021 01:00:00",60,82,71
+245,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NH3,"21-10-2021 01:00:00",3,3,3
+246,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",SO2,"21-10-2021 01:00:00",4,38,22
+247,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",CO,"21-10-2021 01:00:00",38,105,43
+248,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",7,73,35
+249,India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",87,362,212
+250,India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM10,"21-10-2021 01:00:00",144,489,268
+251,India,Delhi,Delhi,"Mundka, Delhi - DPCC",NO2,"21-10-2021 01:00:00",26,155,79
+252,India,Delhi,Delhi,"Mundka, Delhi - DPCC",NH3,"21-10-2021 01:00:00",7,13,9
+253,India,Delhi,Delhi,"Mundka, Delhi - DPCC",SO2,"21-10-2021 01:00:00",27,60,39
+254,India,Delhi,Delhi,"Mundka, Delhi - DPCC",CO,"21-10-2021 01:00:00",23,103,35
+255,India,Delhi,Delhi,"Mundka, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",15,97,27
+256,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",PM2.5,"21-10-2021 01:00:00",193,396,297
+257,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",PM10,"21-10-2021 01:00:00",136,458,213
+258,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",NO2,"21-10-2021 01:00:00",21,81,42
+259,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",NH3,"21-10-2021 01:00:00",6,8,7
+260,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",SO2,"21-10-2021 01:00:00",1,28,10
+261,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",CO,"21-10-2021 01:00:00",18,123,77
+262,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",OZONE,"21-10-2021 01:00:00",20,108,33
+263,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",55,273,136
+264,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM10,"21-10-2021 01:00:00",101,159,126
+265,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NO2,"21-10-2021 01:00:00",8,39,21
+266,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NH3,"21-10-2021 01:00:00",3,9,6
+267,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",SO2,"21-10-2021 01:00:00",1,6,3
+268,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",CO,"21-10-2021 01:00:00",10,48,21
+269,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",1,91,24
+270,India,Delhi,Delhi,"Narela, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",80,345,216
+271,India,Delhi,Delhi,"Narela, Delhi - DPCC",PM10,"21-10-2021 01:00:00",127,235,178
+272,India,Delhi,Delhi,"Narela, Delhi - DPCC",NO2,"21-10-2021 01:00:00",24,108,67
+273,India,Delhi,Delhi,"Narela, Delhi - DPCC",NH3,"21-10-2021 01:00:00",7,12,10
+274,India,Delhi,Delhi,"Narela, Delhi - DPCC",SO2,"21-10-2021 01:00:00",8,58,18
+275,India,Delhi,Delhi,"Narela, Delhi - DPCC",CO,"21-10-2021 01:00:00",55,70,58
+276,India,Delhi,Delhi,"Narela, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",6,121,41
+277,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",63,500,190
+278,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM10,"21-10-2021 01:00:00",123,500,183
+279,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NO2,"21-10-2021 01:00:00",38,166,88
+280,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NH3,"21-10-2021 01:00:00",6,8,7
+281,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",SO2,"21-10-2021 01:00:00",4,19,11
+282,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",CO,"21-10-2021 01:00:00",38,148,53
+283,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",3,162,26
+284,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM2.5,"21-10-2021 01:00:00",63,308,165
+285,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM10,"21-10-2021 01:00:00",106,194,147
+286,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",NO2,"21-10-2021 01:00:00",6,7,6
+287,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",CO,"21-10-2021 01:00:00",24,118,35
+288,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",OZONE,"21-10-2021 01:00:00",31,99,45
+289,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",60,312,164
+290,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM10,"21-10-2021 01:00:00",135,341,196
+291,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NO2,"21-10-2021 01:00:00",62,143,90
+292,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NH3,"21-10-2021 01:00:00",6,8,7
+293,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",SO2,"21-10-2021 01:00:00",4,17,11
+294,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",CO,"21-10-2021 01:00:00",5,128,28
+295,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",3,110,21
+296,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",77,321,182
+297,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM10,"21-10-2021 01:00:00",120,274,170
+298,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NO2,"21-10-2021 01:00:00",20,127,73
+299,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NH3,"21-10-2021 01:00:00",5,8,6
+300,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",SO2,"21-10-2021 01:00:00",6,25,12
+301,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",CO,"21-10-2021 01:00:00",5,143,21
+302,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",4,163,37
+303,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",85,348,201
+304,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM10,"21-10-2021 01:00:00",109,244,165
+305,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NO2,"21-10-2021 01:00:00",36,114,64
+306,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NH3,"21-10-2021 01:00:00",3,5,4
+307,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",SO2,"21-10-2021 01:00:00",19,40,28
+308,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",CO,"21-10-2021 01:00:00",13,104,17
+309,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",11,97,34
+310,India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",95,324,201
+311,India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM10,"21-10-2021 01:00:00",NA,NA,NA
+312,India,Delhi,Delhi,"Pusa, Delhi - DPCC",NO2,"21-10-2021 01:00:00",9,135,37
+313,India,Delhi,Delhi,"Pusa, Delhi - DPCC",NH3,"21-10-2021 01:00:00",10,18,14
+314,India,Delhi,Delhi,"Pusa, Delhi - DPCC",SO2,"21-10-2021 01:00:00",1,11,7
+315,India,Delhi,Delhi,"Pusa, Delhi - DPCC",CO,"21-10-2021 01:00:00",8,126,36
+316,India,Delhi,Delhi,"Pusa, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",2,52,13
+317,India,Delhi,Delhi,"Pusa, Delhi - IMD",PM2.5,"21-10-2021 01:00:00",82,470,194
+318,India,Delhi,Delhi,"Pusa, Delhi - IMD",PM10,"21-10-2021 01:00:00",110,210,154
+319,India,Delhi,Delhi,"Pusa, Delhi - IMD",NO2,"21-10-2021 01:00:00",27,166,79
+320,India,Delhi,Delhi,"Pusa, Delhi - IMD",CO,"21-10-2021 01:00:00",51,104,72
+321,India,Delhi,Delhi,"Pusa, Delhi - IMD",OZONE,"21-10-2021 01:00:00",18,72,32
+322,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",23,147,65
+323,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM10,"21-10-2021 01:00:00",120,221,155
+324,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NO2,"21-10-2021 01:00:00",23,114,66
+325,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NH3,"21-10-2021 01:00:00",2,5,3
+326,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",SO2,"21-10-2021 01:00:00",1,36,10
+327,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",CO,"21-10-2021 01:00:00",5,105,12
+328,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",10,103,34
+329,India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",87,318,195
+330,India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM10,"21-10-2021 01:00:00",119,422,220
+331,India,Delhi,Delhi,"Rohini, Delhi - DPCC",NO2,"21-10-2021 01:00:00",6,71,34
+332,India,Delhi,Delhi,"Rohini, Delhi - DPCC",NH3,"21-10-2021 01:00:00",7,10,9
+333,India,Delhi,Delhi,"Rohini, Delhi - DPCC",SO2,"21-10-2021 01:00:00",2,21,6
+334,India,Delhi,Delhi,"Rohini, Delhi - DPCC",CO,"21-10-2021 01:00:00",42,113,64
+335,India,Delhi,Delhi,"Rohini, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",3,77,12
+336,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",PM2.5,"21-10-2021 01:00:00",55,306,154
+337,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",PM10,"21-10-2021 01:00:00",161,473,275
+338,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",NO2,"21-10-2021 01:00:00",34,102,54
+339,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",NH3,"21-10-2021 01:00:00",4,6,6
+340,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",SO2,"21-10-2021 01:00:00",2,16,7
+341,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",CO,"21-10-2021 01:00:00",23,141,49
+342,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",OZONE,"21-10-2021 01:00:00",6,43,21
+343,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM2.5,"21-10-2021 01:00:00",70,309,165
+344,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM10,"21-10-2021 01:00:00",119,342,191
+345,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NO2,"21-10-2021 01:00:00",1,10,5
+346,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NH3,"21-10-2021 01:00:00",6,8,6
+347,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",SO2,"21-10-2021 01:00:00",11,18,14
+348,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",CO,"21-10-2021 01:00:00",36,134,56
+349,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",OZONE,"21-10-2021 01:00:00",21,100,35
+350,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",93,323,205
+351,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM10,"21-10-2021 01:00:00",121,413,240
+352,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NO2,"21-10-2021 01:00:00",12,116,67
+353,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NH3,"21-10-2021 01:00:00",4,8,6
+354,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",SO2,"21-10-2021 01:00:00",4,17,9
+355,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",CO,"21-10-2021 01:00:00",20,103,42
+356,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",3,130,38
+357,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",67,217,132
+358,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM10,"21-10-2021 01:00:00",97,185,124
+359,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NO2,"21-10-2021 01:00:00",14,57,33
+360,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NH3,"21-10-2021 01:00:00",2,4,3
+361,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",SO2,"21-10-2021 01:00:00",4,8,6
+362,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",CO,"21-10-2021 01:00:00",17,63,22
+363,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",5,128,35
+364,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+365,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM10,"21-10-2021 01:00:00",133,250,178
+366,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NO2,"21-10-2021 01:00:00",22,47,34
+367,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NH3,"21-10-2021 01:00:00",6,10,8
+368,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",SO2,"21-10-2021 01:00:00",1,3,2
+369,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",CO,"21-10-2021 01:00:00",52,125,73
+370,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",7,56,19
+371,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+372,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM10,"21-10-2021 01:00:00",172,419,260
+373,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NO2,"21-10-2021 01:00:00",24,68,41
+374,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NH3,"21-10-2021 01:00:00",6,9,8
+375,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",SO2,"21-10-2021 01:00:00",1,7,5
+376,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",CO,"21-10-2021 01:00:00",5,112,11
+377,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",OZONE,"21-10-2021 01:00:00",4,69,50
+378,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",PM2.5,"21-10-2021 01:00:00",76,339,179
+379,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",PM10,"21-10-2021 01:00:00",86,242,134
+380,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",NO2,"21-10-2021 01:00:00",NA,NA,NA
+381,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",SO2,"21-10-2021 01:00:00",3,14,8
+382,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",CO,"21-10-2021 01:00:00",1,55,3
+383,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",OZONE,"21-10-2021 01:00:00",8,14,11
+384,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",PM2.5,"21-10-2021 01:00:00",40,347,141
+385,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",PM10,"21-10-2021 01:00:00",82,436,184
+386,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",NO2,"21-10-2021 01:00:00",20,259,78
+387,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",SO2,"21-10-2021 01:00:00",46,76,60
+388,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",CO,"21-10-2021 01:00:00",3,133,29
+389,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",OZONE,"21-10-2021 01:00:00",1,117,20
+390,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",PM2.5,"21-10-2021 01:00:00",63,174,98
+391,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",PM10,"21-10-2021 01:00:00",78,137,102
+392,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",SO2,"21-10-2021 01:00:00",4,9,7
+393,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",CO,"21-10-2021 01:00:00",32,72,37
+394,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",PM2.5,"21-10-2021 01:00:00",54,248,129
+395,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",PM10,"21-10-2021 01:00:00",57,138,97
+396,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",NO2,"21-10-2021 01:00:00",4,6,5
+397,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",NH3,"21-10-2021 01:00:00",2,2,2
+398,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",SO2,"21-10-2021 01:00:00",11,12,11
+399,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",CO,"21-10-2021 01:00:00",NA,NA,NA
+400,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",OZONE,"21-10-2021 01:00:00",7,13,9
+401,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",PM2.5,"21-10-2021 01:00:00",41,239,106
+402,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",PM10,"21-10-2021 01:00:00",51,154,101
+403,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",NO2,"21-10-2021 01:00:00",11,12,12
+404,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",NH3,"21-10-2021 01:00:00",6,6,6
+405,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",SO2,"21-10-2021 01:00:00",6,11,7
+406,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",CO,"21-10-2021 01:00:00",10,105,22
+407,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",OZONE,"21-10-2021 01:00:00",6,37,18
+408,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",PM2.5,"21-10-2021 01:00:00",71,318,157
+409,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",PM10,"21-10-2021 01:00:00",79,247,135
+410,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",NO2,"21-10-2021 01:00:00",6,73,33
+411,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",NH3,"21-10-2021 01:00:00",2,10,5
+412,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",SO2,"21-10-2021 01:00:00",3,3,3
+413,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",CO,"21-10-2021 01:00:00",13,92,23
+414,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",OZONE,"21-10-2021 01:00:00",12,36,20
+415,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",PM2.5,"21-10-2021 01:00:00",104,368,250
+416,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",PM10,"21-10-2021 01:00:00",126,220,157
+417,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",NO2,"21-10-2021 01:00:00",4,8,5
+418,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",NH3,"21-10-2021 01:00:00",2,25,11
+419,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",SO2,"21-10-2021 01:00:00",30,95,56
+420,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",CO,"21-10-2021 01:00:00",54,118,73
+421,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",OZONE,"21-10-2021 01:00:00",42,45,43
+422,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",PM2.5,"21-10-2021 01:00:00",30,204,73
+423,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",PM10,"21-10-2021 01:00:00",32,148,84
+424,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",NO2,"21-10-2021 01:00:00",9,10,9
+425,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",NH3,"21-10-2021 01:00:00",2,2,2
+426,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",SO2,"21-10-2021 01:00:00",4,8,5
+427,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",CO,"21-10-2021 01:00:00",58,100,62
+428,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",OZONE,"21-10-2021 01:00:00",1,59,42
+429,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",PM2.5,"21-10-2021 01:00:00",73,314,189
+430,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",PM10,"21-10-2021 01:00:00",83,145,109
+431,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",NO2,"21-10-2021 01:00:00",11,12,12
+432,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",NH3,"21-10-2021 01:00:00",4,4,4
+433,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",SO2,"21-10-2021 01:00:00",1,3,3
+434,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",CO,"21-10-2021 01:00:00",2,36,23
+435,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",OZONE,"21-10-2021 01:00:00",4,17,9
+436,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",PM2.5,"21-10-2021 01:00:00",44,88,69
+437,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",PM10,"21-10-2021 01:00:00",57,130,100
+438,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",NO2,"21-10-2021 01:00:00",9,30,16
+439,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",NH3,"21-10-2021 01:00:00",2,5,3
+440,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",SO2,"21-10-2021 01:00:00",8,12,10
+441,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",CO,"21-10-2021 01:00:00",8,69,13
+442,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",OZONE,"21-10-2021 01:00:00",2,38,15
+443,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",PM2.5,"21-10-2021 01:00:00",32,187,68
+444,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",PM10,"21-10-2021 01:00:00",29,114,53
+445,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",NO2,"21-10-2021 01:00:00",2,2,2
+446,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",SO2,"21-10-2021 01:00:00",1,2,2
+447,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",CO,"21-10-2021 01:00:00",50,100,65
+448,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",PM2.5,"21-10-2021 01:00:00",89,330,140
+449,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",PM10,"21-10-2021 01:00:00",106,313,145
+450,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",NH3,"21-10-2021 01:00:00",2,2,2
+451,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",SO2,"21-10-2021 01:00:00",21,21,21
+452,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",CO,"21-10-2021 01:00:00",57,71,62
+453,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",PM2.5,"21-10-2021 01:00:00",38,288,116
+454,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",PM10,"21-10-2021 01:00:00",52,248,121
+455,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",NO2,"21-10-2021 01:00:00",74,404,195
+456,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",NH3,"21-10-2021 01:00:00",3,13,9
+457,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",SO2,"21-10-2021 01:00:00",7,32,17
+458,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",CO,"21-10-2021 01:00:00",22,78,34
+459,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",OZONE,"21-10-2021 01:00:00",9,83,27
+460,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",PM2.5,"21-10-2021 01:00:00",70,306,179
+461,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",PM10,"21-10-2021 01:00:00",117,377,204
+462,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",NO2,"21-10-2021 01:00:00",1,14,7
+463,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",NH3,"21-10-2021 01:00:00",3,9,8
+464,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",SO2,"21-10-2021 01:00:00",2,74,14
+465,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",CO,"21-10-2021 01:00:00",39,84,47
+466,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",OZONE,"21-10-2021 01:00:00",1,54,1
+467,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",PM2.5,"21-10-2021 01:00:00",113,304,228
+468,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",PM10,"21-10-2021 01:00:00",105,180,144
+469,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",NO2,"21-10-2021 01:00:00",29,33,31
+470,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",NH3,"21-10-2021 01:00:00",17,19,17
+471,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",SO2,"21-10-2021 01:00:00",8,23,12
+472,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",CO,"21-10-2021 01:00:00",14,68,27
+473,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",OZONE,"21-10-2021 01:00:00",3,205,42
+474,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",PM2.5,"21-10-2021 01:00:00",53,403,309
+475,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",PM10,"21-10-2021 01:00:00",117,500,240
+476,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",NO2,"21-10-2021 01:00:00",32,81,47
+477,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",NH3,"21-10-2021 01:00:00",5,9,6
+478,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",SO2,"21-10-2021 01:00:00",3,27,9
+479,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",CO,"21-10-2021 01:00:00",33,148,51
+480,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",OZONE,"21-10-2021 01:00:00",4,56,16
+481,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",PM2.5,"21-10-2021 01:00:00",69,195,108
+482,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",PM10,"21-10-2021 01:00:00",96,283,120
+483,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",NO2,"21-10-2021 01:00:00",21,76,38
+484,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",NH3,"21-10-2021 01:00:00",6,26,9
+485,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",SO2,"21-10-2021 01:00:00",15,36,20
+486,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",CO,"21-10-2021 01:00:00",14,102,22
+487,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",OZONE,"21-10-2021 01:00:00",52,96,74
+488,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",PM2.5,"21-10-2021 01:00:00",91,422,282
+489,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",PM10,"21-10-2021 01:00:00",113,408,188
+490,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",NO2,"21-10-2021 01:00:00",13,33,21
+491,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",NH3,"21-10-2021 01:00:00",2,10,5
+492,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",SO2,"21-10-2021 01:00:00",4,6,5
+493,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",CO,"21-10-2021 01:00:00",23,68,35
+494,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",OZONE,"21-10-2021 01:00:00",1,12,4
+495,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",PM2.5,"21-10-2021 01:00:00",99,320,201
+496,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",PM10,"21-10-2021 01:00:00",74,153,112
+497,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",NO2,"21-10-2021 01:00:00",34,36,35
+498,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",NH3,"21-10-2021 01:00:00",6,6,6
+499,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",SO2,"21-10-2021 01:00:00",7,25,12
+500,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",CO,"21-10-2021 01:00:00",2,73,18
+501,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",OZONE,"21-10-2021 01:00:00",1,107,30
+502,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",PM2.5,"21-10-2021 01:00:00",38,304,130
+503,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",PM10,"21-10-2021 01:00:00",91,168,127
+504,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",NO2,"21-10-2021 01:00:00",4,64,17
+505,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",NH3,"21-10-2021 01:00:00",2,5,4
+506,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",SO2,"21-10-2021 01:00:00",6,7,6
+507,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",CO,"21-10-2021 01:00:00",20,104,31
+508,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",OZONE,"21-10-2021 01:00:00",1,75,58
+509,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",PM2.5,"21-10-2021 01:00:00",217,406,314
+510,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",PM10,"21-10-2021 01:00:00",100,454,250
+511,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",NO2,"21-10-2021 01:00:00",1,4,3
+512,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",NH3,"21-10-2021 01:00:00",1,1,1
+513,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",SO2,"21-10-2021 01:00:00",1,4,2
+514,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",CO,"21-10-2021 01:00:00",16,98,45
+515,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",OZONE,"21-10-2021 01:00:00",9,13,11
+516,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",PM2.5,"21-10-2021 01:00:00",88,361,210
+517,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",PM10,"21-10-2021 01:00:00",103,442,182
+518,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",NO2,"21-10-2021 01:00:00",7,8,8
+519,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",NH3,"21-10-2021 01:00:00",4,4,4
+520,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",SO2,"21-10-2021 01:00:00",7,11,9
+521,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",CO,"21-10-2021 01:00:00",51,120,55
+522,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",OZONE,"21-10-2021 01:00:00",1,90,11
+523,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",PM2.5,"21-10-2021 01:00:00",60,316,174
+524,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",NO2,"21-10-2021 01:00:00",60,182,114
+525,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",SO2,"21-10-2021 01:00:00",19,39,28
+526,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",CO,"21-10-2021 01:00:00",22,117,48
+527,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",OZONE,"21-10-2021 01:00:00",19,238,151
+528,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",PM2.5,"21-10-2021 01:00:00",74,209,121
+529,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",PM10,"21-10-2021 01:00:00",117,167,145
+530,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",NO2,"21-10-2021 01:00:00",11,82,35
+531,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",NH3,"21-10-2021 01:00:00",2,5,4
+532,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",SO2,"21-10-2021 01:00:00",12,23,18
+533,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",CO,"21-10-2021 01:00:00",16,68,31
+534,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",OZONE,"21-10-2021 01:00:00",19,124,54
+535,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM2.5,"21-10-2021 01:00:00",81,236,162
+536,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM10,"21-10-2021 01:00:00",129,179,150
+537,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",NO2,"21-10-2021 01:00:00",14,43,27
+538,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",CO,"21-10-2021 01:00:00",35,74,42
+539,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",OZONE,"21-10-2021 01:00:00",5,123,32
+540,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",PM2.5,"21-10-2021 01:00:00",3,500,142
+541,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",PM10,"21-10-2021 01:00:00",147,500,246
+542,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",NO2,"21-10-2021 01:00:00",6,6,6
+543,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",NH3,"21-10-2021 01:00:00",6,6,6
+544,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",SO2,"21-10-2021 01:00:00",1,7,4
+545,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",CO,"21-10-2021 01:00:00",2,129,47
+546,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",OZONE,"21-10-2021 01:00:00",1,140,25
+547,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",PM2.5,"21-10-2021 01:00:00",200,314,265
+548,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",PM10,"21-10-2021 01:00:00",144,301,206
+549,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",NO2,"21-10-2021 01:00:00",10,11,10
+550,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",NH3,"21-10-2021 01:00:00",7,11,8
+551,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",SO2,"21-10-2021 01:00:00",2,5,4
+552,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",CO,"21-10-2021 01:00:00",29,55,46
+553,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",OZONE,"21-10-2021 01:00:00",18,30,21
+554,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+555,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+556,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+557,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",CO,"21-10-2021 01:00:00",30,108,74
+558,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",OZONE,"21-10-2021 01:00:00",2,43,43
+559,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",PM2.5,"21-10-2021 01:00:00",70,266,143
+560,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",PM10,"21-10-2021 01:00:00",102,185,137
+561,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",NO2,"21-10-2021 01:00:00",59,72,67
+562,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",NH3,"21-10-2021 01:00:00",15,19,17
+563,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",SO2,"21-10-2021 01:00:00",1,16,9
+564,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",CO,"21-10-2021 01:00:00",14,104,17
+565,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",OZONE,"21-10-2021 01:00:00",19,21,20
+566,India,Haryana,Jind,"Police Lines, Jind - HSPCB",PM2.5,"21-10-2021 01:00:00",111,309,210
+567,India,Haryana,Jind,"Police Lines, Jind - HSPCB",PM10,"21-10-2021 01:00:00",123,227,159
+568,India,Haryana,Jind,"Police Lines, Jind - HSPCB",NO2,"21-10-2021 01:00:00",22,41,29
+569,India,Haryana,Jind,"Police Lines, Jind - HSPCB",NH3,"21-10-2021 01:00:00",9,12,10
+570,India,Haryana,Jind,"Police Lines, Jind - HSPCB",SO2,"21-10-2021 01:00:00",4,86,15
+571,India,Haryana,Jind,"Police Lines, Jind - HSPCB",CO,"21-10-2021 01:00:00",36,60,46
+572,India,Haryana,Jind,"Police Lines, Jind - HSPCB",OZONE,"21-10-2021 01:00:00",8,71,33
+573,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",PM2.5,"21-10-2021 01:00:00",146,344,215
+574,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",PM10,"21-10-2021 01:00:00",131,250,166
+575,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",NO2,"21-10-2021 01:00:00",19,111,44
+576,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",NH3,"21-10-2021 01:00:00",5,11,6
+577,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",SO2,"21-10-2021 01:00:00",2,53,14
+578,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",CO,"21-10-2021 01:00:00",4,86,14
+579,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",OZONE,"21-10-2021 01:00:00",35,121,66
+580,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",PM2.5,"21-10-2021 01:00:00",109,329,182
+581,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+582,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",NO2,"21-10-2021 01:00:00",31,32,31
+583,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",NH3,"21-10-2021 01:00:00",7,7,7
+584,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",SO2,"21-10-2021 01:00:00",11,61,30
+585,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",CO,"21-10-2021 01:00:00",34,117,48
+586,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",OZONE,"21-10-2021 01:00:00",6,35,17
+587,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",PM2.5,"21-10-2021 01:00:00",126,350,277
+588,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",PM10,"21-10-2021 01:00:00",135,305,205
+589,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",NO2,"21-10-2021 01:00:00",28,77,45
+590,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",NH3,"21-10-2021 01:00:00",4,7,6
+591,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",SO2,"21-10-2021 01:00:00",9,36,19
+592,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",CO,"21-10-2021 01:00:00",24,93,41
+593,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",OZONE,"21-10-2021 01:00:00",29,171,71
+594,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",PM2.5,"21-10-2021 01:00:00",77,218,129
+595,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",PM10,"21-10-2021 01:00:00",57,116,86
+596,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",NO2,"21-10-2021 01:00:00",16,22,19
+597,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",NH3,"21-10-2021 01:00:00",11,14,12
+598,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",SO2,"21-10-2021 01:00:00",5,20,16
+599,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",CO,"21-10-2021 01:00:00",21,84,25
+600,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",OZONE,"21-10-2021 01:00:00",18,23,21
+601,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM2.5,"21-10-2021 01:00:00",155,327,247
+602,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM10,"21-10-2021 01:00:00",120,203,147
+603,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NO2,"21-10-2021 01:00:00",2,12,6
+604,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NH3,"21-10-2021 01:00:00",1,3,2
+605,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",SO2,"21-10-2021 01:00:00",4,10,7
+606,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",CO,"21-10-2021 01:00:00",11,101,13
+607,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",OZONE,"21-10-2021 01:00:00",13,15,14
+608,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",PM2.5,"21-10-2021 01:00:00",32,114,69
+609,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",PM10,"21-10-2021 01:00:00",31,102,66
+610,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",NO2,"21-10-2021 01:00:00",40,44,42
+611,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",NH3,"21-10-2021 01:00:00",6,6,6
+612,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",SO2,"21-10-2021 01:00:00",5,6,5
+613,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",CO,"21-10-2021 01:00:00",6,22,11
+614,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",OZONE,"21-10-2021 01:00:00",1,8,4
+615,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",PM2.5,"21-10-2021 01:00:00",49,51,50
+616,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",PM10,"21-10-2021 01:00:00",58,62,60
+617,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",NO2,"21-10-2021 01:00:00",18,20,19
+618,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",NH3,"21-10-2021 01:00:00",6,7,6
+619,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",SO2,"21-10-2021 01:00:00",1,9,7
+620,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",CO,"21-10-2021 01:00:00",5,46,32
+621,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",OZONE,"21-10-2021 01:00:00",2,66,14
+622,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",PM2.5,"21-10-2021 01:00:00",95,219,151
+623,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",NO2,"21-10-2021 01:00:00",20,21,20
+624,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",SO2,"21-10-2021 01:00:00",1,4,4
+625,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",CO,"21-10-2021 01:00:00",1,6,3
+626,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",OZONE,"21-10-2021 01:00:00",40,59,46
+627,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",PM2.5,"21-10-2021 01:00:00",85,326,167
+628,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",PM10,"21-10-2021 01:00:00",155,500,240
+629,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",NO2,"21-10-2021 01:00:00",11,16,12
+630,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",NH3,"21-10-2021 01:00:00",2,2,2
+631,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",SO2,"21-10-2021 01:00:00",12,28,19
+632,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",CO,"21-10-2021 01:00:00",NA,NA,NA
+633,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",OZONE,"21-10-2021 01:00:00",38,40,39
+634,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",PM2.5,"21-10-2021 01:00:00",85,311,212
+635,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",NO2,"21-10-2021 01:00:00",34,83,43
+636,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",SO2,"21-10-2021 01:00:00",2,34,9
+637,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",CO,"21-10-2021 01:00:00",44,106,66
+638,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",OZONE,"21-10-2021 01:00:00",29,87,49
+639,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",PM2.5,"21-10-2021 01:00:00",54,298,138
+640,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",PM10,"21-10-2021 01:00:00",88,251,136
+641,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",NO2,"21-10-2021 01:00:00",36,40,38
+642,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",NH3,"21-10-2021 01:00:00",12,13,12
+643,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",SO2,"21-10-2021 01:00:00",9,33,27
+644,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",CO,"21-10-2021 01:00:00",15,73,39
+645,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",OZONE,"21-10-2021 01:00:00",1,49,17
+646,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",PM2.5,"21-10-2021 01:00:00",67,164,106
+647,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",PM10,"21-10-2021 01:00:00",184,341,257
+648,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",NO2,"21-10-2021 01:00:00",16,19,17
+649,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",NH3,"21-10-2021 01:00:00",8,9,8
+650,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",SO2,"21-10-2021 01:00:00",3,7,5
+651,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",CO,"21-10-2021 01:00:00",14,33,27
+652,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",OZONE,"21-10-2021 01:00:00",29,31,30
+653,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",PM2.5,"21-10-2021 01:00:00",40,330,226
+654,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",PM10,"21-10-2021 01:00:00",37,236,167
+655,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",NO2,"21-10-2021 01:00:00",11,34,23
+656,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",NH3,"21-10-2021 01:00:00",6,14,13
+657,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",SO2,"21-10-2021 01:00:00",1,15,5
+658,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",CO,"21-10-2021 01:00:00",18,57,31
+659,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",OZONE,"21-10-2021 01:00:00",6,87,36
+660,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",PM2.5,"21-10-2021 01:00:00",4,53,35
+661,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",PM10,"21-10-2021 01:00:00",27,467,122
+662,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+663,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+664,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",SO2,"21-10-2021 01:00:00",17,74,21
+665,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",CO,"21-10-2021 01:00:00",1,59,30
+666,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+667,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+668,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",OZONE,"21-10-2021 01:00:00",19,90,19
+669,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",PM2.5,"21-10-2021 01:00:00",42,86,58
+670,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",PM10,"21-10-2021 01:00:00",39,74,51
+671,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",NO2,"21-10-2021 01:00:00",10,11,10
+672,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",NH3,"21-10-2021 01:00:00",1,2,1
+673,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",SO2,"21-10-2021 01:00:00",6,31,13
+674,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",CO,"21-10-2021 01:00:00",16,26,25
+675,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",OZONE,"21-10-2021 01:00:00",24,58,32
+676,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",PM2.5,"21-10-2021 01:00:00",28,34,33
+677,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",PM10,"21-10-2021 01:00:00",58,116,82
+678,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",NO2,"21-10-2021 01:00:00",44,46,45
+679,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",NH3,"21-10-2021 01:00:00",5,5,5
+680,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",SO2,"21-10-2021 01:00:00",1,43,16
+681,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",CO,"21-10-2021 01:00:00",7,12,10
+682,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",OZONE,"21-10-2021 01:00:00",1,61,15
+683,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM2.5,"21-10-2021 01:00:00",42,198,109
+684,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM10,"21-10-2021 01:00:00",46,144,101
+685,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NO2,"21-10-2021 01:00:00",13,44,26
+686,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NH3,"21-10-2021 01:00:00",10,21,15
+687,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",SO2,"21-10-2021 01:00:00",4,6,5
+688,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",CO,"21-10-2021 01:00:00",22,101,51
+689,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",OZONE,"21-10-2021 01:00:00",2,7,5
+690,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",PM10,"21-10-2021 01:00:00",40,105,77
+691,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",NO2,"21-10-2021 01:00:00",23,24,24
+692,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",SO2,"21-10-2021 01:00:00",10,15,12
+693,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",CO,"21-10-2021 01:00:00",50,124,118
+694,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM2.5,"21-10-2021 01:00:00",36,108,59
+695,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM10,"21-10-2021 01:00:00",58,123,85
+696,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NO2,"21-10-2021 01:00:00",16,58,33
+697,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NH3,"21-10-2021 01:00:00",1,2,1
+698,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",SO2,"21-10-2021 01:00:00",7,9,8
+699,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",CO,"21-10-2021 01:00:00",18,33,28
+700,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",OZONE,"21-10-2021 01:00:00",19,29,23
+701,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM2.5,"21-10-2021 01:00:00",30,66,47
+702,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM10,"21-10-2021 01:00:00",38,111,75
+703,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NO2,"21-10-2021 01:00:00",14,50,27
+704,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NH3,"21-10-2021 01:00:00",3,4,3
+705,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",SO2,"21-10-2021 01:00:00",4,8,7
+706,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",CO,"21-10-2021 01:00:00",18,58,25
+707,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",OZONE,"21-10-2021 01:00:00",13,81,45
+708,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM2.5,"21-10-2021 01:00:00",20,97,63
+709,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM10,"21-10-2021 01:00:00",29,120,74
+710,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NO2,"21-10-2021 01:00:00",2,79,18
+711,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NH3,"21-10-2021 01:00:00",2,2,2
+712,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",SO2,"21-10-2021 01:00:00",3,7,6
+713,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",CO,"21-10-2021 01:00:00",6,53,23
+714,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",OZONE,"21-10-2021 01:00:00",15,75,57
+715,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",PM2.5,"21-10-2021 01:00:00",38,234,111
+716,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NO2,"21-10-2021 01:00:00",50,78,58
+717,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NH3,"21-10-2021 01:00:00",1,1,1
+718,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",SO2,"21-10-2021 01:00:00",2,4,2
+719,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",CO,"21-10-2021 01:00:00",45,100,59
+720,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",OZONE,"21-10-2021 01:00:00",7,34,17
+721,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",PM10,"21-10-2021 01:00:00",18,22,18
+722,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",NO2,"21-10-2021 01:00:00",22,23,23
+723,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",SO2,"21-10-2021 01:00:00",4,31,11
+724,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",CO,"21-10-2021 01:00:00",19,48,33
+725,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM2.5,"21-10-2021 01:00:00",18,87,47
+726,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM10,"21-10-2021 01:00:00",34,143,84
+727,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NO2,"21-10-2021 01:00:00",20,66,52
+728,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NH3,"21-10-2021 01:00:00",2,9,4
+729,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",SO2,"21-10-2021 01:00:00",5,6,5
+730,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",CO,"21-10-2021 01:00:00",16,49,32
+731,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",OZONE,"21-10-2021 01:00:00",31,50,31
+732,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",PM2.5,"21-10-2021 01:00:00",17,78,45
+733,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",PM10,"21-10-2021 01:00:00",39,62,48
+734,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",NO2,"21-10-2021 01:00:00",28,31,29
+735,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",NH3,"21-10-2021 01:00:00",4,4,4
+736,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",SO2,"21-10-2021 01:00:00",2,8,4
+737,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",CO,"21-10-2021 01:00:00",14,28,15
+738,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",OZONE,"21-10-2021 01:00:00",12,43,23
+739,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM2.5,"21-10-2021 01:00:00",23,83,51
+740,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM10,"21-10-2021 01:00:00",27,100,55
+741,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NO2,"21-10-2021 01:00:00",25,38,30
+742,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NH3,"21-10-2021 01:00:00",1,1,1
+743,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",SO2,"21-10-2021 01:00:00",2,5,3
+744,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",CO,"21-10-2021 01:00:00",28,31,29
+745,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",OZONE,"21-10-2021 01:00:00",9,43,27
+746,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",PM2.5,"21-10-2021 01:00:00",14,64,33
+747,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",PM10,"21-10-2021 01:00:00",23,55,36
+748,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",NO2,"21-10-2021 01:00:00",21,28,24
+749,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",NH3,"21-10-2021 01:00:00",4,6,5
+750,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",SO2,"21-10-2021 01:00:00",1,5,2
+751,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",CO,"21-10-2021 01:00:00",16,36,25
+752,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",OZONE,"21-10-2021 01:00:00",16,20,18
+753,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",PM2.5,"21-10-2021 01:00:00",37,83,57
+754,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",PM10,"21-10-2021 01:00:00",31,108,66
+755,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",NO2,"21-10-2021 01:00:00",21,44,32
+756,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",NH3,"21-10-2021 01:00:00",1,1,1
+757,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",SO2,"21-10-2021 01:00:00",6,8,7
+758,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",CO,"21-10-2021 01:00:00",23,34,27
+759,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",OZONE,"21-10-2021 01:00:00",11,20,17
+760,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",PM2.5,"21-10-2021 01:00:00",15,92,54
+761,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",PM10,"21-10-2021 01:00:00",10,122,64
+762,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",NO2,"21-10-2021 01:00:00",8,84,34
+763,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",NH3,"21-10-2021 01:00:00",1,8,4
+764,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",SO2,"21-10-2021 01:00:00",19,26,23
+765,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",CO,"21-10-2021 01:00:00",10,106,20
+766,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",OZONE,"21-10-2021 01:00:00",8,40,22
+767,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM2.5,"21-10-2021 01:00:00",53,98,69
+768,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM10,"21-10-2021 01:00:00",68,131,98
+769,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NO2,"21-10-2021 01:00:00",6,68,28
+770,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NH3,"21-10-2021 01:00:00",2,4,3
+771,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",SO2,"21-10-2021 01:00:00",4,5,5
+772,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",CO,"21-10-2021 01:00:00",28,58,38
+773,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",OZONE,"21-10-2021 01:00:00",9,67,41
+774,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",PM10,"21-10-2021 01:00:00",70,159,106
+775,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",NO2,"21-10-2021 01:00:00",4,97,45
+776,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",NH3,"21-10-2021 01:00:00",1,1,1
+777,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",CO,"21-10-2021 01:00:00",16,60,28
+778,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",OZONE,"21-10-2021 01:00:00",42,84,70
+779,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",PM2.5,"21-10-2021 01:00:00",17,73,51
+780,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",PM10,"21-10-2021 01:00:00",18,125,57
+781,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",NO2,"21-10-2021 01:00:00",5,50,25
+782,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",NH3,"21-10-2021 01:00:00",1,4,1
+783,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",SO2,"21-10-2021 01:00:00",24,168,69
+784,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",CO,"21-10-2021 01:00:00",42,70,57
+785,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",OZONE,"21-10-2021 01:00:00",1,49,14
+786,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",PM2.5,"21-10-2021 01:00:00",16,52,29
+787,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",PM10,"21-10-2021 01:00:00",22,64,38
+788,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",NO2,"21-10-2021 01:00:00",5,22,10
+789,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",NH3,"21-10-2021 01:00:00",5,8,6
+790,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",SO2,"21-10-2021 01:00:00",15,25,20
+791,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",CO,"21-10-2021 01:00:00",42,54,48
+792,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",OZONE,"21-10-2021 01:00:00",19,54,30
+793,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",PM2.5,"21-10-2021 01:00:00",7,65,39
+794,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+795,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",NO2,"21-10-2021 01:00:00",10,34,21
+796,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",NH3,"21-10-2021 01:00:00",8,17,12
+797,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",SO2,"21-10-2021 01:00:00",37,39,38
+798,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",CO,"21-10-2021 01:00:00",57,68,62
+799,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",OZONE,"21-10-2021 01:00:00",8,34,18
+800,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",PM2.5,"21-10-2021 01:00:00",3,32,17
+801,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+802,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",NO2,"21-10-2021 01:00:00",2,6,4
+803,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+804,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",SO2,"21-10-2021 01:00:00",3,15,12
+805,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",CO,"21-10-2021 01:00:00",20,30,22
+806,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",OZONE,"21-10-2021 01:00:00",52,95,83
+807,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",PM2.5,"21-10-2021 01:00:00",11,53,29
+808,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",PM10,"21-10-2021 01:00:00",30,71,46
+809,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",NO2,"21-10-2021 01:00:00",8,60,23
+810,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",NH3,"21-10-2021 01:00:00",1,10,4
+811,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",SO2,"21-10-2021 01:00:00",1,19,3
+812,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",CO,"21-10-2021 01:00:00",2,84,23
+813,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",OZONE,"21-10-2021 01:00:00",13,72,28
+814,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",PM2.5,"21-10-2021 01:00:00",49,118,70
+815,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",PM10,"21-10-2021 01:00:00",69,218,112
+816,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",NO2,"21-10-2021 01:00:00",14,45,26
+817,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",NH3,"21-10-2021 01:00:00",2,2,2
+818,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",SO2,"21-10-2021 01:00:00",7,11,8
+819,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",CO,"21-10-2021 01:00:00",8,49,19
+820,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",OZONE,"21-10-2021 01:00:00",9,20,13
+821,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",PM2.5,"21-10-2021 01:00:00",17,78,47
+822,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",PM10,"21-10-2021 01:00:00",28,103,57
+823,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",NO2,"21-10-2021 01:00:00",15,55,42
+824,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",NH3,"21-10-2021 01:00:00",1,2,1
+825,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",SO2,"21-10-2021 01:00:00",17,26,21
+826,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",CO,"21-10-2021 01:00:00",9,29,17
+827,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",OZONE,"21-10-2021 01:00:00",20,91,47
+828,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",PM2.5,"21-10-2021 01:00:00",21,38,29
+829,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",PM10,"21-10-2021 01:00:00",32,46,38
+830,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",NO2,"21-10-2021 01:00:00",9,23,16
+831,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",NH3,"21-10-2021 01:00:00",2,6,5
+832,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",SO2,"21-10-2021 01:00:00",2,7,4
+833,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",CO,"21-10-2021 01:00:00",17,61,34
+834,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",OZONE,"21-10-2021 01:00:00",7,44,16
+835,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",PM10,"21-10-2021 01:00:00",1,24,15
+836,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",NO2,"21-10-2021 01:00:00",8,57,21
+837,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",NH3,"21-10-2021 01:00:00",1,2,2
+838,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",SO2,"21-10-2021 01:00:00",4,52,13
+839,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",CO,"21-10-2021 01:00:00",94,114,105
+840,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",OZONE,"21-10-2021 01:00:00",34,148,84
+841,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",PM2.5,"21-10-2021 01:00:00",30,70,50
+842,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",PM10,"21-10-2021 01:00:00",48,51,50
+843,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",NO2,"21-10-2021 01:00:00",13,14,14
+844,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",NH3,"21-10-2021 01:00:00",1,2,1
+845,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",SO2,"21-10-2021 01:00:00",5,7,5
+846,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",CO,"21-10-2021 01:00:00",37,113,38
+847,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",OZONE,"21-10-2021 01:00:00",3,43,27
+848,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",PM2.5,"21-10-2021 01:00:00",38,77,48
+849,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",PM10,"21-10-2021 01:00:00",65,102,74
+850,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",NO2,"21-10-2021 01:00:00",7,20,10
+851,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",NH3,"21-10-2021 01:00:00",1,2,1
+852,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",SO2,"21-10-2021 01:00:00",11,121,29
+853,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",CO,"21-10-2021 01:00:00",1,44,10
+854,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",OZONE,"21-10-2021 01:00:00",13,27,21
+855,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+856,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+857,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+858,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+859,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+860,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",CO,"21-10-2021 01:00:00",44,53,49
+861,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",OZONE,"21-10-2021 01:00:00",27,31,30
+862,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+863,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+864,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+865,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+866,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+867,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",CO,"21-10-2021 01:00:00",43,45,44
+868,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",PM2.5,"21-10-2021 01:00:00",4,64,32
+869,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",PM10,"21-10-2021 01:00:00",31,127,69
+870,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",NO2,"21-10-2021 01:00:00",16,29,22
+871,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",NH3,"21-10-2021 01:00:00",2,2,2
+872,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",SO2,"21-10-2021 01:00:00",1,3,2
+873,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",CO,"21-10-2021 01:00:00",26,60,43
+874,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",OZONE,"21-10-2021 01:00:00",23,47,33
+875,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",PM2.5,"21-10-2021 01:00:00",17,55,27
+876,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",PM10,"21-10-2021 01:00:00",24,53,40
+877,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",NO2,"21-10-2021 01:00:00",45,54,50
+878,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",NH3,"21-10-2021 01:00:00",4,5,5
+879,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+880,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",CO,"21-10-2021 01:00:00",21,72,37
+881,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",OZONE,"21-10-2021 01:00:00",1,1,1
+882,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+883,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+884,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",NO2,"21-10-2021 01:00:00",18,101,48
+885,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",SO2,"21-10-2021 01:00:00",1,6,3
+886,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",CO,"21-10-2021 01:00:00",85,92,89
+887,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",OZONE,"21-10-2021 01:00:00",6,41,15
+888,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",PM2.5,"21-10-2021 01:00:00",26,78,39
+889,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",PM10,"21-10-2021 01:00:00",36,111,54
+890,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",NO2,"21-10-2021 01:00:00",6,36,19
+891,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",NH3,"21-10-2021 01:00:00",1,1,1
+892,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",SO2,"21-10-2021 01:00:00",5,9,7
+893,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",CO,"21-10-2021 01:00:00",2,47,23
+894,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",OZONE,"21-10-2021 01:00:00",6,7,6
+895,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",PM2.5,"21-10-2021 01:00:00",22,77,52
+896,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",PM10,"21-10-2021 01:00:00",38,119,80
+897,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",NO2,"21-10-2021 01:00:00",11,32,21
+898,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",NH3,"21-10-2021 01:00:00",1,6,2
+899,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",SO2,"21-10-2021 01:00:00",1,6,3
+900,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",CO,"21-10-2021 01:00:00",15,49,20
+901,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",OZONE,"21-10-2021 01:00:00",38,42,41
+902,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM2.5,"21-10-2021 01:00:00",2,80,32
+903,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM10,"21-10-2021 01:00:00",10,104,46
+904,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NO2,"21-10-2021 01:00:00",10,56,14
+905,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NH3,"21-10-2021 01:00:00",3,3,3
+906,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",SO2,"21-10-2021 01:00:00",4,15,11
+907,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",CO,"21-10-2021 01:00:00",14,88,30
+908,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",OZONE,"21-10-2021 01:00:00",13,34,14
+909,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB",PM2.5,"21-10-2021 01:00:00",39,132,75
+910,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB",PM10,"21-10-2021 01:00:00",78,173,122
+911,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB",NO2,"21-10-2021 01:00:00",22,106,47
+912,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB",NH3,"21-10-2021 01:00:00",2,3,3
+913,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB",SO2,"21-10-2021 01:00:00",9,26,20
+914,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB",CO,"21-10-2021 01:00:00",29,111,39
+915,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB",OZONE,"21-10-2021 01:00:00",27,124,79
+916,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB",PM2.5,"21-10-2021 01:00:00",17,58,43
+917,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB",PM10,"21-10-2021 01:00:00",13,41,30
+918,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB",NO2,"21-10-2021 01:00:00",17,19,18
+919,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB",CO,"21-10-2021 01:00:00",14,15,14
+920,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM2.5,"21-10-2021 01:00:00",36,282,121
+921,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM10,"21-10-2021 01:00:00",51,189,108
+922,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",NO2,"21-10-2021 01:00:00",14,87,40
+923,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",NH3,"21-10-2021 01:00:00",3,6,5
+924,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",SO2,"21-10-2021 01:00:00",4,82,15
+925,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",CO,"21-10-2021 01:00:00",12,108,29
+926,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",OZONE,"21-10-2021 01:00:00",5,48,38
+927,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB",PM2.5,"21-10-2021 01:00:00",37,228,80
+928,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB",PM10,"21-10-2021 01:00:00",76,184,116
+929,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB",NO2,"21-10-2021 01:00:00",16,108,31
+930,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB",NH3,"21-10-2021 01:00:00",2,4,3
+931,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB",SO2,"21-10-2021 01:00:00",14,19,18
+932,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB",CO,"21-10-2021 01:00:00",16,112,22
+933,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB",OZONE,"21-10-2021 01:00:00",10,97,59
+934,India,"Madhya Pradesh",Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+935,India,"Madhya Pradesh",Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",PM10,"21-10-2021 01:00:00",NA,NA,NA
+936,India,"Madhya Pradesh",Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",CO,"21-10-2021 01:00:00",4,111,26
+937,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB",PM2.5,"21-10-2021 01:00:00",31,335,161
+938,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB",PM10,"21-10-2021 01:00:00",57,417,178
+939,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB",NO2,"21-10-2021 01:00:00",39,176,96
+940,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB",NH3,"21-10-2021 01:00:00",3,8,5
+941,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB",SO2,"21-10-2021 01:00:00",10,33,18
+942,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB",CO,"21-10-2021 01:00:00",19,168,44
+943,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB",OZONE,"21-10-2021 01:00:00",8,114,54
+944,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB",PM2.5,"21-10-2021 01:00:00",42,220,97
+945,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB",PM10,"21-10-2021 01:00:00",73,214,126
+946,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB",NO2,"21-10-2021 01:00:00",24,113,53
+947,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB",NH3,"21-10-2021 01:00:00",1,4,3
+948,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB",SO2,"21-10-2021 01:00:00",5,12,10
+949,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB",CO,"21-10-2021 01:00:00",16,108,24
+950,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB",OZONE,"21-10-2021 01:00:00",15,57,30
+951,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB",PM2.5,"21-10-2021 01:00:00",17,192,76
+952,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB",PM10,"21-10-2021 01:00:00",70,374,161
+953,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB",NO2,"21-10-2021 01:00:00",23,81,45
+954,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB",NH3,"21-10-2021 01:00:00",3,5,4
+955,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB",SO2,"21-10-2021 01:00:00",5,109,47
+956,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB",CO,"21-10-2021 01:00:00",24,122,41
+957,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB",OZONE,"21-10-2021 01:00:00",9,87,48
+958,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+959,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+960,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+961,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+962,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+963,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",CO,"21-10-2021 01:00:00",12,82,14
+964,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",OZONE,"21-10-2021 01:00:00",11,44,34
+965,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM2.5,"21-10-2021 01:00:00",41,302,104
+966,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM10,"21-10-2021 01:00:00",65,133,92
+967,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NO2,"21-10-2021 01:00:00",11,38,20
+968,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NH3,"21-10-2021 01:00:00",5,6,5
+969,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",SO2,"21-10-2021 01:00:00",17,46,28
+970,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",CO,"21-10-2021 01:00:00",25,53,35
+971,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",OZONE,"21-10-2021 01:00:00",52,102,79
+972,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",PM2.5,"21-10-2021 01:00:00",11,155,91
+973,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",PM10,"21-10-2021 01:00:00",46,208,111
+974,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",NO2,"21-10-2021 01:00:00",11,38,21
+975,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",SO2,"21-10-2021 01:00:00",5,9,7
+976,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB",PM2.5,"21-10-2021 01:00:00",11,67,38
+977,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+978,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB",NO2,"21-10-2021 01:00:00",20,21,20
+979,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB",SO2,"21-10-2021 01:00:00",8,13,10
+980,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB",CO,"21-10-2021 01:00:00",1,28,14
+981,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement",PM2.5,"21-10-2021 01:00:00",29,53,33
+982,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement",PM10,"21-10-2021 01:00:00",47,90,64
+983,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement",SO2,"21-10-2021 01:00:00",25,28,27
+984,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement",CO,"21-10-2021 01:00:00",8,11,9
+985,India,"Madhya Pradesh",Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",PM2.5,"21-10-2021 01:00:00",29,268,87
+986,India,"Madhya Pradesh",Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",PM10,"21-10-2021 01:00:00",50,320,126
+987,India,"Madhya Pradesh",Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",NO2,"21-10-2021 01:00:00",27,40,33
+988,India,"Madhya Pradesh",Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",NH3,"21-10-2021 01:00:00",8,14,12
+989,India,"Madhya Pradesh",Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",SO2,"21-10-2021 01:00:00",8,26,18
+990,India,"Madhya Pradesh",Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",CO,"21-10-2021 01:00:00",28,104,64
+991,India,"Madhya Pradesh",Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",OZONE,"21-10-2021 01:00:00",6,116,51
+992,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM2.5,"21-10-2021 01:00:00",22,150,56
+993,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM10,"21-10-2021 01:00:00",61,216,131
+994,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NO2,"21-10-2021 01:00:00",8,93,29
+995,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NH3,"21-10-2021 01:00:00",2,6,4
+996,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",SO2,"21-10-2021 01:00:00",4,11,6
+997,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",CO,"21-10-2021 01:00:00",15,100,30
+998,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",OZONE,"21-10-2021 01:00:00",8,107,58
+999,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM2.5,"21-10-2021 01:00:00",9,79,35
+1000,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM10,"21-10-2021 01:00:00",56,107,85
+1001,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NO2,"21-10-2021 01:00:00",7,16,10
+1002,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NH3,"21-10-2021 01:00:00",1,1,1
+1003,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",SO2,"21-10-2021 01:00:00",11,30,23
+1004,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",CO,"21-10-2021 01:00:00",30,101,57
+1005,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",OZONE,"21-10-2021 01:00:00",4,79,35
+1006,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM2.5,"21-10-2021 01:00:00",42,179,88
+1007,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM10,"21-10-2021 01:00:00",72,179,121
+1008,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NO2,"21-10-2021 01:00:00",19,50,29
+1009,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NH3,"21-10-2021 01:00:00",1,3,2
+1010,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",SO2,"21-10-2021 01:00:00",3,8,6
+1011,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",CO,"21-10-2021 01:00:00",5,64,16
+1012,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",OZONE,"21-10-2021 01:00:00",14,33,29
+1013,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM2.5,"21-10-2021 01:00:00",55,222,103
+1014,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM10,"21-10-2021 01:00:00",76,144,107
+1015,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NO2,"21-10-2021 01:00:00",10,32,17
+1016,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NH3,"21-10-2021 01:00:00",2,5,3
+1017,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",SO2,"21-10-2021 01:00:00",1,6,3
+1018,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",CO,"21-10-2021 01:00:00",24,81,39
+1019,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",OZONE,"21-10-2021 01:00:00",9,131,53
+1020,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1021,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1022,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1023,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1024,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",CO,"21-10-2021 01:00:00",44,46,45
+1025,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",OZONE,"21-10-2021 01:00:00",9,10,9
+1026,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",84,310,161
+1027,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",PM10,"21-10-2021 01:00:00",99,215,137
+1028,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",NO2,"21-10-2021 01:00:00",6,11,8
+1029,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",NH3,"21-10-2021 01:00:00",1,1,1
+1030,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",SO2,"21-10-2021 01:00:00",28,63,40
+1031,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",CO,"21-10-2021 01:00:00",1,28,4
+1032,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",OZONE,"21-10-2021 01:00:00",1,10,6
+1033,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",63,63,63
+1034,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM10,"21-10-2021 01:00:00",91,117,102
+1035,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",52,56,54
+1036,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",CO,"21-10-2021 01:00:00",2,2,2
+1037,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",62,145,139
+1038,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",25,61,40
+1039,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",PM10,"21-10-2021 01:00:00",79,110,98
+1040,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",NO2,"21-10-2021 01:00:00",4,25,12
+1041,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",NH3,"21-10-2021 01:00:00",1,2,2
+1042,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",CO,"21-10-2021 01:00:00",15,44,26
+1043,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",29,71,43
+1044,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",PM10,"21-10-2021 01:00:00",40,89,57
+1045,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1046,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",6,10,8
+1047,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1048,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",CO,"21-10-2021 01:00:00",13,22,15
+1049,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",5,9,5
+1050,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",44,124,77
+1051,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",PM10,"21-10-2021 01:00:00",58,129,94
+1052,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",NO2,"21-10-2021 01:00:00",25,42,34
+1053,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",NH3,"21-10-2021 01:00:00",4,7,5
+1054,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",SO2,"21-10-2021 01:00:00",10,15,12
+1055,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",CO,"21-10-2021 01:00:00",1,43,40
+1056,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",OZONE,"21-10-2021 01:00:00",1,53,19
+1057,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",44,90,60
+1058,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",PM10,"21-10-2021 01:00:00",107,156,125
+1059,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",NO2,"21-10-2021 01:00:00",10,36,24
+1060,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",NH3,"21-10-2021 01:00:00",6,11,8
+1061,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",SO2,"21-10-2021 01:00:00",3,6,5
+1062,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",CO,"21-10-2021 01:00:00",91,102,96
+1063,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",7,102,39
+1064,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",40,117,60
+1065,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",7,15,10
+1066,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",2,2,2
+1067,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",CO,"21-10-2021 01:00:00",33,50,45
+1068,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",16,17,16
+1069,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",56,164,92
+1070,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",PM10,"21-10-2021 01:00:00",71,135,101
+1071,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",NO2,"21-10-2021 01:00:00",14,30,22
+1072,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",NH3,"21-10-2021 01:00:00",3,3,3
+1073,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",SO2,"21-10-2021 01:00:00",1,8,4
+1074,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",CO,"21-10-2021 01:00:00",1,66,7
+1075,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",OZONE,"21-10-2021 01:00:00",1,40,15
+1076,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",31,90,59
+1077,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",PM10,"21-10-2021 01:00:00",80,150,101
+1078,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",15,58,34
+1079,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",1,3,2
+1080,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",7,10,8
+1081,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",CO,"21-10-2021 01:00:00",21,46,28
+1082,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",8,8,8
+1083,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",32,196,66
+1084,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",PM10,"21-10-2021 01:00:00",37,141,69
+1085,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",NO2,"21-10-2021 01:00:00",1,19,10
+1086,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",NH3,"21-10-2021 01:00:00",2,3,2
+1087,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",SO2,"21-10-2021 01:00:00",1,5,3
+1088,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",CO,"21-10-2021 01:00:00",63,104,99
+1089,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",OZONE,"21-10-2021 01:00:00",7,26,15
+1090,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",126,347,187
+1091,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",PM10,"21-10-2021 01:00:00",87,211,118
+1092,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",NO2,"21-10-2021 01:00:00",2,37,9
+1093,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",NH3,"21-10-2021 01:00:00",1,2,1
+1094,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",SO2,"21-10-2021 01:00:00",1,10,4
+1095,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",CO,"21-10-2021 01:00:00",5,49,19
+1096,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",OZONE,"21-10-2021 01:00:00",3,36,19
+1097,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",46,151,82
+1098,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",PM10,"21-10-2021 01:00:00",77,159,104
+1099,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",21,36,30
+1100,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",17,32,28
+1101,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",18,26,22
+1102,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",CO,"21-10-2021 01:00:00",15,38,29
+1103,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",12,36,21
+1104,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",47,156,71
+1105,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",PM10,"21-10-2021 01:00:00",60,138,84
+1106,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",7,36,18
+1107,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",1,2,1
+1108,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",2,4,4
+1109,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",CO,"21-10-2021 01:00:00",41,68,58
+1110,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",6,90,36
+1111,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",40,124,58
+1112,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",PM10,"21-10-2021 01:00:00",39,106,55
+1113,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",NO2,"21-10-2021 01:00:00",16,17,16
+1114,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",CO,"21-10-2021 01:00:00",13,31,24
+1115,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",OZONE,"21-10-2021 01:00:00",25,67,37
+1116,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",43,95,64
+1117,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",PM10,"21-10-2021 01:00:00",93,173,116
+1118,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",10,40,29
+1119,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",2,9,5
+1120,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",1,6,4
+1121,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",CO,"21-10-2021 01:00:00",26,66,47
+1122,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",4,57,18
+1123,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",41,77,61
+1124,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",9,39,22
+1125,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",5,6,5
+1126,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",25,26,25
+1127,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",CO,"21-10-2021 01:00:00",42,62,49
+1128,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",46,121,70
+1129,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",PM10,"21-10-2021 01:00:00",93,160,115
+1130,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",10,34,19
+1131,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",4,8,5
+1132,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",CO,"21-10-2021 01:00:00",31,51,42
+1133,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",5,6,5
+1134,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",43,73,56
+1135,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",NO2,"21-10-2021 01:00:00",4,64,26
+1136,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",NH3,"21-10-2021 01:00:00",1,109,16
+1137,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",SO2,"21-10-2021 01:00:00",17,114,32
+1138,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",CO,"21-10-2021 01:00:00",71,90,79
+1139,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",4,4,4
+1140,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM2.5,"21-10-2021 01:00:00",36,82,59
+1141,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM10,"21-10-2021 01:00:00",37,114,67
+1142,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NO2,"21-10-2021 01:00:00",13,86,33
+1143,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NH3,"21-10-2021 01:00:00",1,2,2
+1144,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",SO2,"21-10-2021 01:00:00",1,3,2
+1145,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",CO,"21-10-2021 01:00:00",13,102,28
+1146,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",OZONE,"21-10-2021 01:00:00",20,92,60
+1147,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",53,149,85
+1148,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB",PM10,"21-10-2021 01:00:00",55,92,67
+1149,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB",NO2,"21-10-2021 01:00:00",20,59,36
+1150,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB",NH3,"21-10-2021 01:00:00",1,2,1
+1151,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB",SO2,"21-10-2021 01:00:00",2,10,6
+1152,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB",CO,"21-10-2021 01:00:00",26,60,37
+1153,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB",OZONE,"21-10-2021 01:00:00",7,49,21
+1154,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB",PM2.5,"21-10-2021 01:00:00",50,187,102
+1155,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB",PM10,"21-10-2021 01:00:00",99,159,124
+1156,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB",NO2,"21-10-2021 01:00:00",1,12,5
+1157,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB",NH3,"21-10-2021 01:00:00",1,2,1
+1158,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB",SO2,"21-10-2021 01:00:00",31,34,33
+1159,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB",CO,"21-10-2021 01:00:00",26,53,43
+1160,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",PM2.5,"21-10-2021 01:00:00",29,115,68
+1161,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",PM10,"21-10-2021 01:00:00",62,218,110
+1162,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",NO2,"21-10-2021 01:00:00",2,7,6
+1163,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",NH3,"21-10-2021 01:00:00",1,1,1
+1164,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",SO2,"21-10-2021 01:00:00",1,6,3
+1165,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",CO,"21-10-2021 01:00:00",22,110,56
+1166,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",OZONE,"21-10-2021 01:00:00",1,29,9
+1167,India,Maharashtra,Pune,"Bhosari, Pune - IITM",PM2.5,"21-10-2021 01:00:00",68,162,93
+1168,India,Maharashtra,Pune,"Bhosari, Pune - IITM",PM10,"21-10-2021 01:00:00",70,125,90
+1169,India,Maharashtra,Pune,"Bhosari, Pune - IITM",NO2,"21-10-2021 01:00:00",13,18,15
+1170,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",PM2.5,"21-10-2021 01:00:00",19,136,47
+1171,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",PM10,"21-10-2021 01:00:00",14,107,41
+1172,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",NO2,"21-10-2021 01:00:00",17,18,18
+1173,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",CO,"21-10-2021 01:00:00",16,48,32
+1174,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",OZONE,"21-10-2021 01:00:00",5,32,10
+1175,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1176,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1177,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1178,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1179,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",CO,"21-10-2021 01:00:00",47,68,56
+1180,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",OZONE,"21-10-2021 01:00:00",27,49,40
+1181,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",PM2.5,"21-10-2021 01:00:00",28,62,45
+1182,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",PM10,"21-10-2021 01:00:00",24,56,39
+1183,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",NO2,"21-10-2021 01:00:00",7,7,7
+1184,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",CO,"21-10-2021 01:00:00",48,55,51
+1185,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",OZONE,"21-10-2021 01:00:00",5,39,16
+1186,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",PM2.5,"21-10-2021 01:00:00",61,301,141
+1187,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",PM10,"21-10-2021 01:00:00",57,160,102
+1188,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",NO2,"21-10-2021 01:00:00",35,219,118
+1189,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",SO2,"21-10-2021 01:00:00",2,131,59
+1190,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",CO,"21-10-2021 01:00:00",28,107,62
+1191,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",OZONE,"21-10-2021 01:00:00",1,25,3
+1192,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",PM10,"21-10-2021 01:00:00",129,185,173
+1193,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1194,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NH3,"21-10-2021 01:00:00",1,34,8
+1195,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",SO2,"21-10-2021 01:00:00",1,31,6
+1196,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",CO,"21-10-2021 01:00:00",1,9,3
+1197,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",OZONE,"21-10-2021 01:00:00",3,124,35
+1198,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1199,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",PM10,"21-10-2021 01:00:00",1,27,6
+1200,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",NO2,"21-10-2021 01:00:00",2,4,3
+1201,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1202,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",SO2,"21-10-2021 01:00:00",14,34,18
+1203,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",OZONE,"21-10-2021 01:00:00",1,31,16
+1204,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1205,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1206,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1207,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1208,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",SO2,"21-10-2021 01:00:00",1,26,23
+1209,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",CO,"21-10-2021 01:00:00",5,18,9
+1210,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",OZONE,"21-10-2021 01:00:00",2,10,6
+1211,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",PM2.5,"21-10-2021 01:00:00",3,60,26
+1212,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",PM10,"21-10-2021 01:00:00",3,44,21
+1213,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",NO2,"21-10-2021 01:00:00",3,3,3
+1214,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",NH3,"21-10-2021 01:00:00",1,1,1
+1215,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",SO2,"21-10-2021 01:00:00",36,37,36
+1216,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",CO,"21-10-2021 01:00:00",6,26,16
+1217,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",OZONE,"21-10-2021 01:00:00",7,8,8
+1218,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",PM10,"21-10-2021 01:00:00",22,135,46
+1219,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NO2,"21-10-2021 01:00:00",6,6,6
+1220,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NH3,"21-10-2021 01:00:00",2,2,2
+1221,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",SO2,"21-10-2021 01:00:00",30,101,49
+1222,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",CO,"21-10-2021 01:00:00",43,47,45
+1223,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",OZONE,"21-10-2021 01:00:00",1,97,34
+1224,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",PM2.5,"21-10-2021 01:00:00",8,171,84
+1225,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",PM10,"21-10-2021 01:00:00",21,117,70
+1226,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NO2,"21-10-2021 01:00:00",21,34,26
+1227,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NH3,"21-10-2021 01:00:00",8,11,9
+1228,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",SO2,"21-10-2021 01:00:00",6,23,12
+1229,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",CO,"21-10-2021 01:00:00",15,42,30
+1230,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",OZONE,"21-10-2021 01:00:00",8,74,20
+1231,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",PM2.5,"21-10-2021 01:00:00",31,208,63
+1232,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",PM10,"21-10-2021 01:00:00",26,120,59
+1233,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",NO2,"21-10-2021 01:00:00",4,28,15
+1234,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",NH3,"21-10-2021 01:00:00",2,5,3
+1235,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",SO2,"21-10-2021 01:00:00",1,55,14
+1236,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",CO,"21-10-2021 01:00:00",26,58,43
+1237,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",OZONE,"21-10-2021 01:00:00",20,78,42
+1238,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM2.5,"21-10-2021 01:00:00",21,286,162
+1239,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM10,"21-10-2021 01:00:00",74,201,152
+1240,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NO2,"21-10-2021 01:00:00",2,164,72
+1241,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NH3,"21-10-2021 01:00:00",4,6,5
+1242,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",SO2,"21-10-2021 01:00:00",5,49,22
+1243,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",CO,"21-10-2021 01:00:00",13,41,34
+1244,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",OZONE,"21-10-2021 01:00:00",3,62,31
+1245,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM2.5,"21-10-2021 01:00:00",31,83,56
+1246,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM10,"21-10-2021 01:00:00",29,250,109
+1247,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",NO2,"21-10-2021 01:00:00",12,22,18
+1248,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",SO2,"21-10-2021 01:00:00",5,11,8
+1249,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",CO,"21-10-2021 01:00:00",16,45,41
+1250,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM2.5,"21-10-2021 01:00:00",74,341,206
+1251,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM10,"21-10-2021 01:00:00",61,233,124
+1252,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NO2,"21-10-2021 01:00:00",4,96,42
+1253,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NH3,"21-10-2021 01:00:00",1,10,4
+1254,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",SO2,"21-10-2021 01:00:00",8,15,12
+1255,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",CO,"21-10-2021 01:00:00",2,122,25
+1256,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",OZONE,"21-10-2021 01:00:00",2,83,38
+1257,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM2.5,"21-10-2021 01:00:00",57,320,241
+1258,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM10,"21-10-2021 01:00:00",77,225,164
+1259,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NO2,"21-10-2021 01:00:00",14,149,81
+1260,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NH3,"21-10-2021 01:00:00",9,39,24
+1261,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",SO2,"21-10-2021 01:00:00",12,105,29
+1262,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",CO,"21-10-2021 01:00:00",8,80,57
+1263,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",OZONE,"21-10-2021 01:00:00",5,79,28
+1264,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM2.5,"21-10-2021 01:00:00",50,239,152
+1265,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM10,"21-10-2021 01:00:00",77,167,134
+1266,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NO2,"21-10-2021 01:00:00",9,36,31
+1267,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NH3,"21-10-2021 01:00:00",3,6,5
+1268,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",SO2,"21-10-2021 01:00:00",3,23,7
+1269,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",CO,"21-10-2021 01:00:00",12,55,42
+1270,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",OZONE,"21-10-2021 01:00:00",4,86,33
+1271,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",PM2.5,"21-10-2021 01:00:00",21,371,163
+1272,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",PM10,"21-10-2021 01:00:00",31,408,154
+1273,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",NO2,"21-10-2021 01:00:00",6,7,7
+1274,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",NH3,"21-10-2021 01:00:00",2,2,2
+1275,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",SO2,"21-10-2021 01:00:00",7,103,20
+1276,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",CO,"21-10-2021 01:00:00",36,78,64
+1277,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",OZONE,"21-10-2021 01:00:00",2,45,8
+1278,India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM2.5,"21-10-2021 01:00:00",63,187,136
+1279,India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM10,"21-10-2021 01:00:00",107,169,136
+1280,India,Punjab,Patiala,"Model Town, Patiala - PPCB",NO2,"21-10-2021 01:00:00",3,18,8
+1281,India,Punjab,Patiala,"Model Town, Patiala - PPCB",NH3,"21-10-2021 01:00:00",3,7,5
+1282,India,Punjab,Patiala,"Model Town, Patiala - PPCB",SO2,"21-10-2021 01:00:00",5,11,7
+1283,India,Punjab,Patiala,"Model Town, Patiala - PPCB",CO,"21-10-2021 01:00:00",24,54,43
+1284,India,Punjab,Patiala,"Model Town, Patiala - PPCB",OZONE,"21-10-2021 01:00:00",6,120,42
+1285,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",PM10,"21-10-2021 01:00:00",52,169,111
+1286,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",NO2,"21-10-2021 01:00:00",8,9,9
+1287,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",SO2,"21-10-2021 01:00:00",9,14,12
+1288,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",CO,"21-10-2021 01:00:00",14,35,24
+1289,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM2.5,"21-10-2021 01:00:00",38,327,131
+1290,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM10,"21-10-2021 01:00:00",45,155,89
+1291,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NO2,"21-10-2021 01:00:00",15,98,52
+1292,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NH3,"21-10-2021 01:00:00",2,7,4
+1293,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",SO2,"21-10-2021 01:00:00",4,23,12
+1294,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",CO,"21-10-2021 01:00:00",5,105,21
+1295,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",OZONE,"21-10-2021 01:00:00",2,62,36
+1296,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",PM2.5,"21-10-2021 01:00:00",50,89,65
+1297,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",PM10,"21-10-2021 01:00:00",59,98,75
+1298,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",NO2,"21-10-2021 01:00:00",25,76,44
+1299,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",NH3,"21-10-2021 01:00:00",8,15,10
+1300,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",SO2,"21-10-2021 01:00:00",7,22,13
+1301,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",CO,"21-10-2021 01:00:00",4,101,41
+1302,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",OZONE,"21-10-2021 01:00:00",9,91,23
+1303,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",PM2.5,"21-10-2021 01:00:00",24,360,223
+1304,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",PM10,"21-10-2021 01:00:00",84,416,219
+1305,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",NO2,"21-10-2021 01:00:00",27,67,41
+1306,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",NH3,"21-10-2021 01:00:00",5,13,8
+1307,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",SO2,"21-10-2021 01:00:00",8,70,29
+1308,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",CO,"21-10-2021 01:00:00",20,83,33
+1309,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",OZONE,"21-10-2021 01:00:00",2,50,13
+1310,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM2.5,"21-10-2021 01:00:00",49,328,133
+1311,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM10,"21-10-2021 01:00:00",87,204,124
+1312,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NO2,"21-10-2021 01:00:00",33,157,77
+1313,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NH3,"21-10-2021 01:00:00",6,60,18
+1314,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",SO2,"21-10-2021 01:00:00",11,24,18
+1315,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",CO,"21-10-2021 01:00:00",15,140,24
+1316,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",OZONE,"21-10-2021 01:00:00",9,94,54
+1317,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM2.5,"21-10-2021 01:00:00",72,332,192
+1318,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM10,"21-10-2021 01:00:00",109,266,162
+1319,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1320,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1321,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1322,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",CO,"21-10-2021 01:00:00",2,100,41
+1323,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",OZONE,"21-10-2021 01:00:00",12,66,31
+1324,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM2.5,"21-10-2021 01:00:00",44,291,98
+1325,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM10,"21-10-2021 01:00:00",87,224,116
+1326,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NO2,"21-10-2021 01:00:00",8,124,54
+1327,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NH3,"21-10-2021 01:00:00",2,67,17
+1328,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",SO2,"21-10-2021 01:00:00",14,39,23
+1329,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",CO,"21-10-2021 01:00:00",13,141,33
+1330,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",OZONE,"21-10-2021 01:00:00",6,86,57
+1331,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM2.5,"21-10-2021 01:00:00",50,281,132
+1332,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM10,"21-10-2021 01:00:00",76,157,126
+1333,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",NO2,"21-10-2021 01:00:00",23,72,41
+1334,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",SO2,"21-10-2021 01:00:00",5,20,12
+1335,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",CO,"21-10-2021 01:00:00",11,102,44
+1336,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",OZONE,"21-10-2021 01:00:00",12,49,29
+1337,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM2.5,"21-10-2021 01:00:00",53,141,75
+1338,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM10,"21-10-2021 01:00:00",59,115,80
+1339,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NO2,"21-10-2021 01:00:00",32,34,32
+1340,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NH3,"21-10-2021 01:00:00",8,10,9
+1341,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",SO2,"21-10-2021 01:00:00",10,14,12
+1342,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",CO,"21-10-2021 01:00:00",3,56,21
+1343,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",OZONE,"21-10-2021 01:00:00",22,73,54
+1344,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM2.5,"21-10-2021 01:00:00",9,277,111
+1345,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM10,"21-10-2021 01:00:00",42,166,95
+1346,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NO2,"21-10-2021 01:00:00",22,66,36
+1347,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NH3,"21-10-2021 01:00:00",4,6,5
+1348,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",SO2,"21-10-2021 01:00:00",4,10,8
+1349,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",CO,"21-10-2021 01:00:00",28,77,42
+1350,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",OZONE,"21-10-2021 01:00:00",3,90,10
+1351,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM2.5,"21-10-2021 01:00:00",57,196,94
+1352,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM10,"21-10-2021 01:00:00",58,172,102
+1353,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NO2,"21-10-2021 01:00:00",18,57,43
+1354,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NH3,"21-10-2021 01:00:00",12,24,15
+1355,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",SO2,"21-10-2021 01:00:00",8,19,12
+1356,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",CO,"21-10-2021 01:00:00",7,106,30
+1357,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",OZONE,"21-10-2021 01:00:00",9,66,28
+1358,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",PM2.5,"21-10-2021 01:00:00",45,72,62
+1359,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",PM10,"21-10-2021 01:00:00",54,87,74
+1360,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",NO2,"21-10-2021 01:00:00",16,17,16
+1361,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",NH3,"21-10-2021 01:00:00",5,5,5
+1362,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",SO2,"21-10-2021 01:00:00",14,19,16
+1363,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",CO,"21-10-2021 01:00:00",33,37,35
+1364,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",OZONE,"21-10-2021 01:00:00",9,18,11
+1365,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",PM2.5,"21-10-2021 01:00:00",52,148,84
+1366,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",PM10,"21-10-2021 01:00:00",64,128,94
+1367,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",SO2,"21-10-2021 01:00:00",13,25,22
+1368,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",PM2.5,"21-10-2021 01:00:00",86,175,117
+1369,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",PM10,"21-10-2021 01:00:00",59,134,94
+1370,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",NO2,"21-10-2021 01:00:00",11,43,22
+1371,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",NH3,"21-10-2021 01:00:00",2,5,3
+1372,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",SO2,"21-10-2021 01:00:00",16,19,17
+1373,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",CO,"21-10-2021 01:00:00",16,67,28
+1374,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",OZONE,"21-10-2021 01:00:00",16,36,21
+1375,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",PM2.5,"21-10-2021 01:00:00",40,91,65
+1376,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",PM10,"21-10-2021 01:00:00",54,98,76
+1377,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NO2,"21-10-2021 01:00:00",4,15,12
+1378,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NH3,"21-10-2021 01:00:00",13,16,13
+1379,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",SO2,"21-10-2021 01:00:00",1,10,6
+1380,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",CO,"21-10-2021 01:00:00",14,104,40
+1381,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",OZONE,"21-10-2021 01:00:00",22,65,33
+1382,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",PM2.5,"21-10-2021 01:00:00",48,94,65
+1383,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",PM10,"21-10-2021 01:00:00",63,126,78
+1384,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",NO2,"21-10-2021 01:00:00",2,26,13
+1385,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",NH3,"21-10-2021 01:00:00",3,13,7
+1386,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",SO2,"21-10-2021 01:00:00",2,6,4
+1387,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",CO,"21-10-2021 01:00:00",5,47,31
+1388,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",OZONE,"21-10-2021 01:00:00",12,51,35
+1389,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",PM2.5,"21-10-2021 01:00:00",45,148,75
+1390,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",PM10,"21-10-2021 01:00:00",50,167,86
+1391,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1392,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1393,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",SO2,"21-10-2021 01:00:00",3,25,8
+1394,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",CO,"21-10-2021 01:00:00",48,101,75
+1395,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",PM2.5,"21-10-2021 01:00:00",11,65,32
+1396,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",PM10,"21-10-2021 01:00:00",62,87,70
+1397,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",NO2,"21-10-2021 01:00:00",9,11,10
+1398,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",NH3,"21-10-2021 01:00:00",3,5,4
+1399,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",SO2,"21-10-2021 01:00:00",8,13,11
+1400,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",CO,"21-10-2021 01:00:00",22,51,38
+1401,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",OZONE,"21-10-2021 01:00:00",2,43,18
+1402,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",PM2.5,"21-10-2021 01:00:00",70,321,166
+1403,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",PM10,"21-10-2021 01:00:00",75,242,134
+1404,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",NO2,"21-10-2021 01:00:00",13,29,19
+1405,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",NH3,"21-10-2021 01:00:00",2,3,3
+1406,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",SO2,"21-10-2021 01:00:00",4,19,9
+1407,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",PM10,"21-10-2021 01:00:00",18,66,36
+1408,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",NO2,"21-10-2021 01:00:00",21,45,33
+1409,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",SO2,"21-10-2021 01:00:00",5,13,9
+1410,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",CO,"21-10-2021 01:00:00",3,42,15
+1411,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",OZONE,"21-10-2021 01:00:00",19,53,36
+1412,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1413,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1414,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1415,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1416,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1417,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",CO,"21-10-2021 01:00:00",24,54,37
+1418,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",OZONE,"21-10-2021 01:00:00",88,90,89
+1419,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM2.5,"21-10-2021 01:00:00",43,128,83
+1420,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM10,"21-10-2021 01:00:00",70,147,112
+1421,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NO2,"21-10-2021 01:00:00",35,65,52
+1422,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NH3,"21-10-2021 01:00:00",2,4,2
+1423,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",SO2,"21-10-2021 01:00:00",2,16,7
+1424,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",CO,"21-10-2021 01:00:00",14,42,22
+1425,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",OZONE,"21-10-2021 01:00:00",2,41,19
+1426,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM2.5,"21-10-2021 01:00:00",47,179,106
+1427,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM10,"21-10-2021 01:00:00",70,156,118
+1428,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NO2,"21-10-2021 01:00:00",2,33,15
+1429,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NH3,"21-10-2021 01:00:00",1,3,2
+1430,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",SO2,"21-10-2021 01:00:00",6,24,10
+1431,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",CO,"21-10-2021 01:00:00",8,38,23
+1432,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",OZONE,"21-10-2021 01:00:00",2,10,5
+1433,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM2.5,"21-10-2021 01:00:00",71,185,138
+1434,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM10,"21-10-2021 01:00:00",126,158,146
+1435,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NO2,"21-10-2021 01:00:00",67,106,85
+1436,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NH3,"21-10-2021 01:00:00",1,2,1
+1437,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",SO2,"21-10-2021 01:00:00",2,8,4
+1438,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",CO,"21-10-2021 01:00:00",20,56,30
+1439,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",OZONE,"21-10-2021 01:00:00",4,20,8
+1440,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",PM2.5,"21-10-2021 01:00:00",58,238,141
+1441,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",NO2,"21-10-2021 01:00:00",14,125,59
+1442,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",SO2,"21-10-2021 01:00:00",8,34,18
+1443,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",CO,"21-10-2021 01:00:00",24,71,29
+1444,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",OZONE,"21-10-2021 01:00:00",7,54,30
+1445,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM2.5,"21-10-2021 01:00:00",68,178,124
+1446,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM10,"21-10-2021 01:00:00",80,153,122
+1447,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NO2,"21-10-2021 01:00:00",36,68,51
+1448,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NH3,"21-10-2021 01:00:00",1,3,1
+1449,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",SO2,"21-10-2021 01:00:00",2,6,4
+1450,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",CO,"21-10-2021 01:00:00",6,80,24
+1451,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",OZONE,"21-10-2021 01:00:00",8,23,16
+1452,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1453,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1454,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1455,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1456,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1457,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",CO,"21-10-2021 01:00:00",5,16,16
+1458,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",OZONE,"21-10-2021 01:00:00",2,51,48
+1459,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",PM2.5,"21-10-2021 01:00:00",44,346,180
+1460,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",PM10,"21-10-2021 01:00:00",104,302,156
+1461,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",NO2,"21-10-2021 01:00:00",3,28,12
+1462,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",NH3,"21-10-2021 01:00:00",6,7,7
+1463,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",SO2,"21-10-2021 01:00:00",12,13,12
+1464,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",CO,"21-10-2021 01:00:00",12,85,27
+1465,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",OZONE,"21-10-2021 01:00:00",8,43,16
+1466,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",PM2.5,"21-10-2021 01:00:00",48,386,199
+1467,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",PM10,"21-10-2021 01:00:00",151,464,247
+1468,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",NO2,"21-10-2021 01:00:00",18,133,56
+1469,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",SO2,"21-10-2021 01:00:00",2,60,23
+1470,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",CO,"21-10-2021 01:00:00",16,168,29
+1471,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",OZONE,"21-10-2021 01:00:00",3,142,50
+1472,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",PM2.5,"21-10-2021 01:00:00",68,459,240
+1473,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",PM10,"21-10-2021 01:00:00",122,477,224
+1474,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",NO2,"21-10-2021 01:00:00",11,56,28
+1475,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",NH3,"21-10-2021 01:00:00",6,19,10
+1476,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",SO2,"21-10-2021 01:00:00",10,12,11
+1477,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",CO,"21-10-2021 01:00:00",18,131,29
+1478,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",OZONE,"21-10-2021 01:00:00",1,25,1
+1479,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",PM2.5,"21-10-2021 01:00:00",62,314,189
+1480,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",PM10,"21-10-2021 01:00:00",82,254,165
+1481,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",NO2,"21-10-2021 01:00:00",13,39,26
+1482,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",NH3,"21-10-2021 01:00:00",5,9,7
+1483,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",SO2,"21-10-2021 01:00:00",8,10,9
+1484,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",CO,"21-10-2021 01:00:00",22,115,34
+1485,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",OZONE,"21-10-2021 01:00:00",1,141,38
+1486,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",PM2.5,"21-10-2021 01:00:00",58,347,179
+1487,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",PM10,"21-10-2021 01:00:00",110,304,150
+1488,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",NO2,"21-10-2021 01:00:00",9,28,17
+1489,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",NH3,"21-10-2021 01:00:00",15,26,21
+1490,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",SO2,"21-10-2021 01:00:00",13,28,19
+1491,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",CO,"21-10-2021 01:00:00",18,74,29
+1492,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",OZONE,"21-10-2021 01:00:00",1,38,10
+1493,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM2.5,"21-10-2021 01:00:00",84,310,204
+1494,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM10,"21-10-2021 01:00:00",133,274,184
+1495,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NO2,"21-10-2021 01:00:00",14,78,41
+1496,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NH3,"21-10-2021 01:00:00",6,9,7
+1497,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",SO2,"21-10-2021 01:00:00",6,17,10
+1498,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",CO,"21-10-2021 01:00:00",14,65,22
+1499,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",OZONE,"21-10-2021 01:00:00",2,95,39
+1500,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM2.5,"21-10-2021 01:00:00",74,316,218
+1501,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM10,"21-10-2021 01:00:00",117,242,165
+1502,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NO2,"21-10-2021 01:00:00",19,83,49
+1503,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NH3,"21-10-2021 01:00:00",3,8,5
+1504,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",SO2,"21-10-2021 01:00:00",10,18,15
+1505,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",CO,"21-10-2021 01:00:00",19,78,47
+1506,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",OZONE,"21-10-2021 01:00:00",4,181,181
+1507,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",PM2.5,"21-10-2021 01:00:00",65,353,173
+1508,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",PM10,"21-10-2021 01:00:00",103,346,139
+1509,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",NO2,"21-10-2021 01:00:00",41,95,63
+1510,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",NH3,"21-10-2021 01:00:00",10,48,22
+1511,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",SO2,"21-10-2021 01:00:00",10,62,20
+1512,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",CO,"21-10-2021 01:00:00",26,86,46
+1513,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",OZONE,"21-10-2021 01:00:00",1,64,10
+1514,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",PM2.5,"21-10-2021 01:00:00",87,393,195
+1515,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",PM10,"21-10-2021 01:00:00",141,487,232
+1516,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1517,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",NH3,"21-10-2021 01:00:00",1,3,2
+1518,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",SO2,"21-10-2021 01:00:00",5,16,11
+1519,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",CO,"21-10-2021 01:00:00",39,169,49
+1520,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",OZONE,"21-10-2021 01:00:00",16,158,158
+1521,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",PM2.5,"21-10-2021 01:00:00",118,433,270
+1522,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",PM10,"21-10-2021 01:00:00",127,422,250
+1523,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",NO2,"21-10-2021 01:00:00",12,102,62
+1524,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",NH3,"21-10-2021 01:00:00",7,14,10
+1525,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",SO2,"21-10-2021 01:00:00",12,30,18
+1526,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",CO,"21-10-2021 01:00:00",44,121,64
+1527,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",OZONE,"21-10-2021 01:00:00",4,122,36
+1528,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",PM2.5,"21-10-2021 01:00:00",90,363,259
+1529,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",PM10,"21-10-2021 01:00:00",145,466,290
+1530,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",NO2,"21-10-2021 01:00:00",43,162,105
+1531,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",NH3,"21-10-2021 01:00:00",4,8,6
+1532,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",SO2,"21-10-2021 01:00:00",21,52,31
+1533,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",CO,"21-10-2021 01:00:00",20,138,43
+1534,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",OZONE,"21-10-2021 01:00:00",8,139,48
+1535,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",PM2.5,"21-10-2021 01:00:00",102,335,215
+1536,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",PM10,"21-10-2021 01:00:00",152,406,239
+1537,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",NO2,"21-10-2021 01:00:00",26,133,81
+1538,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",NH3,"21-10-2021 01:00:00",4,7,5
+1539,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",SO2,"21-10-2021 01:00:00",10,26,16
+1540,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",CO,"21-10-2021 01:00:00",28,136,50
+1541,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",OZONE,"21-10-2021 01:00:00",2,121,26
+1542,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",PM2.5,"21-10-2021 01:00:00",42,270,132
+1543,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",PM10,"21-10-2021 01:00:00",54,144,99
+1544,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",NO2,"21-10-2021 01:00:00",2,2,2
+1545,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",NH3,"21-10-2021 01:00:00",1,10,5
+1546,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",SO2,"21-10-2021 01:00:00",8,27,18
+1547,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",CO,"21-10-2021 01:00:00",24,36,36
+1548,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",OZONE,"21-10-2021 01:00:00",1,36,10
+1549,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1550,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",PM10,"21-10-2021 01:00:00",147,500,229
+1551,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",NO2,"21-10-2021 01:00:00",14,79,44
+1552,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",NH3,"21-10-2021 01:00:00",2,4,3
+1553,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",SO2,"21-10-2021 01:00:00",16,27,21
+1554,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",CO,"21-10-2021 01:00:00",38,125,53
+1555,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",OZONE,"21-10-2021 01:00:00",1,169,39
+1556,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",PM2.5,"21-10-2021 01:00:00",65,308,178
+1557,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",PM10,"21-10-2021 01:00:00",141,295,202
+1558,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",NO2,"21-10-2021 01:00:00",41,145,84
+1559,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",NH3,"21-10-2021 01:00:00",5,7,6
+1560,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",SO2,"21-10-2021 01:00:00",10,22,17
+1561,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",CO,"21-10-2021 01:00:00",23,113,41
+1562,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",OZONE,"21-10-2021 01:00:00",5,135,29
+1563,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",PM2.5,"21-10-2021 01:00:00",90,361,236
+1564,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",PM10,"21-10-2021 01:00:00",108,303,194
+1565,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",NO2,"21-10-2021 01:00:00",4,16,9
+1566,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",NH3,"21-10-2021 01:00:00",1,6,2
+1567,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",SO2,"21-10-2021 01:00:00",4,58,21
+1568,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",CO,"21-10-2021 01:00:00",48,114,74
+1569,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",OZONE,"21-10-2021 01:00:00",2,13,5
+1570,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",PM2.5,"21-10-2021 01:00:00",49,92,70
+1571,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",PM10,"21-10-2021 01:00:00",39,78,57
+1572,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",NO2,"21-10-2021 01:00:00",6,39,18
+1573,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",NH3,"21-10-2021 01:00:00",2,6,3
+1574,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",SO2,"21-10-2021 01:00:00",5,6,5
+1575,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",CO,"21-10-2021 01:00:00",26,57,34
+1576,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",OZONE,"21-10-2021 01:00:00",8,46,15
+1577,India,Uttar_Pradesh,Kanpur,"IITK, Kanpur - IITK",PM2.5,"21-10-2021 01:00:00",31,244,107
+1578,India,Uttar_Pradesh,Kanpur,"IITK, Kanpur - IITK",CO,"21-10-2021 01:00:00",18,54,28
+1579,India,Uttar_Pradesh,Kanpur,"IITK, Kanpur - IITK",OZONE,"21-10-2021 01:00:00",6,57,28
+1580,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",PM2.5,"21-10-2021 01:00:00",72,151,94
+1581,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",PM10,"21-10-2021 01:00:00",47,92,65
+1582,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",NO2,"21-10-2021 01:00:00",3,41,18
+1583,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",NH3,"21-10-2021 01:00:00",2,3,2
+1584,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",SO2,"21-10-2021 01:00:00",11,13,12
+1585,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",CO,"21-10-2021 01:00:00",37,61,44
+1586,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",OZONE,"21-10-2021 01:00:00",5,24,12
+1587,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",PM2.5,"21-10-2021 01:00:00",92,378,229
+1588,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",PM10,"21-10-2021 01:00:00",107,384,191
+1589,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",SO2,"21-10-2021 01:00:00",15,131,69
+1590,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",CO,"21-10-2021 01:00:00",1,164,136
+1591,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",OZONE,"21-10-2021 01:00:00",4,34,16
+1592,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",PM2.5,"21-10-2021 01:00:00",64,144,93
+1593,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",PM10,"21-10-2021 01:00:00",110,170,133
+1594,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",NO2,"21-10-2021 01:00:00",12,28,19
+1595,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",NH3,"21-10-2021 01:00:00",5,8,6
+1596,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",SO2,"21-10-2021 01:00:00",5,6,6
+1597,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",CO,"21-10-2021 01:00:00",22,38,29
+1598,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",OZONE,"21-10-2021 01:00:00",3,39,11
+1599,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",PM2.5,"21-10-2021 01:00:00",86,214,128
+1600,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",PM10,"21-10-2021 01:00:00",68,109,86
+1601,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",NO2,"21-10-2021 01:00:00",33,102,50
+1602,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",NH3,"21-10-2021 01:00:00",8,28,16
+1603,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",SO2,"21-10-2021 01:00:00",4,13,7
+1604,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",CO,"21-10-2021 01:00:00",3,106,24
+1605,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",OZONE,"21-10-2021 01:00:00",12,74,43
+1606,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",PM2.5,"21-10-2021 01:00:00",102,317,240
+1607,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",PM10,"21-10-2021 01:00:00",109,168,136
+1608,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",NO2,"21-10-2021 01:00:00",20,87,50
+1609,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",SO2,"21-10-2021 01:00:00",26,38,31
+1610,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",CO,"21-10-2021 01:00:00",19,112,59
+1611,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",OZONE,"21-10-2021 01:00:00",28,82,56
+1612,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",PM2.5,"21-10-2021 01:00:00",121,272,169
+1613,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",PM10,"21-10-2021 01:00:00",112,168,130
+1614,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",NO2,"21-10-2021 01:00:00",3,20,7
+1615,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",NH3,"21-10-2021 01:00:00",5,9,8
+1616,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",SO2,"21-10-2021 01:00:00",8,10,8
+1617,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",CO,"21-10-2021 01:00:00",32,78,46
+1618,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",OZONE,"21-10-2021 01:00:00",4,63,28
+1619,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",PM2.5,"21-10-2021 01:00:00",82,209,153
+1620,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",PM10,"21-10-2021 01:00:00",128,181,153
+1621,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",NO2,"21-10-2021 01:00:00",29,81,34
+1622,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",NH3,"21-10-2021 01:00:00",13,13,13
+1623,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",SO2,"21-10-2021 01:00:00",3,22,11
+1624,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",CO,"21-10-2021 01:00:00",49,102,57
+1625,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",OZONE,"21-10-2021 01:00:00",15,28,19
+1626,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",PM2.5,"21-10-2021 01:00:00",18,287,145
+1627,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",PM10,"21-10-2021 01:00:00",117,288,179
+1628,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NO2,"21-10-2021 01:00:00",17,74,35
+1629,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NH3,"21-10-2021 01:00:00",3,14,7
+1630,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",SO2,"21-10-2021 01:00:00",3,17,9
+1631,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",CO,"21-10-2021 01:00:00",13,134,57
+1632,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",OZONE,"21-10-2021 01:00:00",19,65,34
+1633,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",PM2.5,"21-10-2021 01:00:00",115,340,250
+1634,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",PM10,"21-10-2021 01:00:00",146,281,204
+1635,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",NO2,"21-10-2021 01:00:00",20,66,38
+1636,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",NH3,"21-10-2021 01:00:00",7,10,8
+1637,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",SO2,"21-10-2021 01:00:00",2,137,9
+1638,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",OZONE,"21-10-2021 01:00:00",1,54,2
+1639,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",PM2.5,"21-10-2021 01:00:00",105,330,258
+1640,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",PM10,"21-10-2021 01:00:00",136,285,223
+1641,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",NO2,"21-10-2021 01:00:00",5,54,25
+1642,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",NH3,"21-10-2021 01:00:00",1,4,2
+1643,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",SO2,"21-10-2021 01:00:00",29,40,32
+1644,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",CO,"21-10-2021 01:00:00",28,89,53
+1645,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",OZONE,"21-10-2021 01:00:00",17,248,206
+1646,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",PM2.5,"21-10-2021 01:00:00",153,362,280
+1647,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",PM10,"21-10-2021 01:00:00",143,256,194
+1648,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",NO2,"21-10-2021 01:00:00",39,101,63
+1649,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",NH3,"21-10-2021 01:00:00",17,42,25
+1650,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",SO2,"21-10-2021 01:00:00",19,38,27
+1651,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",CO,"21-10-2021 01:00:00",5,107,73
+1652,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",OZONE,"21-10-2021 01:00:00",11,101,37
+1653,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM2.5,"21-10-2021 01:00:00",182,392,308
+1654,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM10,"21-10-2021 01:00:00",130,352,229
+1655,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NO2,"21-10-2021 01:00:00",15,89,41
+1656,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NH3,"21-10-2021 01:00:00",2,3,3
+1657,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",SO2,"21-10-2021 01:00:00",3,45,18
+1658,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",CO,"21-10-2021 01:00:00",12,116,54
+1659,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",OZONE,"21-10-2021 01:00:00",4,50,21
+1660,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM2.5,"21-10-2021 01:00:00",93,469,284
+1661,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM10,"21-10-2021 01:00:00",123,495,289
+1662,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NO2,"21-10-2021 01:00:00",13,23,17
+1663,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NH3,"21-10-2021 01:00:00",2,3,2
+1664,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",SO2,"21-10-2021 01:00:00",3,29,12
+1665,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",CO,"21-10-2021 01:00:00",89,121,104
+1666,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",OZONE,"21-10-2021 01:00:00",20,43,26
+1667,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",PM2.5,"21-10-2021 01:00:00",55,324,176
+1668,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",PM10,"21-10-2021 01:00:00",136,352,210
+1669,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",NO2,"21-10-2021 01:00:00",32,52,42
+1670,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",NH3,"21-10-2021 01:00:00",1,2,1
+1671,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",SO2,"21-10-2021 01:00:00",7,17,12
+1672,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",CO,"21-10-2021 01:00:00",14,21,17
+1673,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",OZONE,"21-10-2021 01:00:00",10,210,40
+1674,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",PM2.5,"21-10-2021 01:00:00",73,313,158
+1675,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",PM10,"21-10-2021 01:00:00",131,368,202
+1676,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",NO2,"21-10-2021 01:00:00",20,43,28
+1677,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",CO,"21-10-2021 01:00:00",65,140,90
+1678,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",OZONE,"21-10-2021 01:00:00",3,81,23
+1679,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",PM2.5,"21-10-2021 01:00:00",72,322,176
+1680,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",PM10,"21-10-2021 01:00:00",152,377,215
+1681,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",NO2,"21-10-2021 01:00:00",26,148,86
+1682,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",NH3,"21-10-2021 01:00:00",6,9,7
+1683,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",SO2,"21-10-2021 01:00:00",3,24,12
+1684,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",CO,"21-10-2021 01:00:00",13,116,22
+1685,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",OZONE,"21-10-2021 01:00:00",3,133,30
+1686,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",PM2.5,"21-10-2021 01:00:00",65,315,170
+1687,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",PM10,"21-10-2021 01:00:00",134,358,194
+1688,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",NO2,"21-10-2021 01:00:00",19,110,63
+1689,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",NH3,"21-10-2021 01:00:00",3,6,4
+1690,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",SO2,"21-10-2021 01:00:00",5,22,11
+1691,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",CO,"21-10-2021 01:00:00",76,146,113
+1692,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",OZONE,"21-10-2021 01:00:00",3,141,34
+1693,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",PM2.5,"21-10-2021 01:00:00",49,301,91
+1694,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",PM10,"21-10-2021 01:00:00",52,155,88
+1695,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",NO2,"21-10-2021 01:00:00",1,21,5
+1696,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",NH3,"21-10-2021 01:00:00",3,5,4
+1697,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",SO2,"21-10-2021 01:00:00",15,15,15
+1698,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",CO,"21-10-2021 01:00:00",15,38,16
+1699,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",OZONE,"21-10-2021 01:00:00",3,25,9
+1700,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",PM2.5,"21-10-2021 01:00:00",41,101,58
+1701,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",PM10,"21-10-2021 01:00:00",55,121,73
+1702,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",NO2,"21-10-2021 01:00:00",6,40,19
+1703,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",NH3,"21-10-2021 01:00:00",1,1,1
+1704,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",SO2,"21-10-2021 01:00:00",14,15,15
+1705,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",CO,"21-10-2021 01:00:00",22,56,24
+1706,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",OZONE,"21-10-2021 01:00:00",3,56,26
+1707,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",PM2.5,"21-10-2021 01:00:00",53,218,90
+1708,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",PM10,"21-10-2021 01:00:00",40,112,70
+1709,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",NO2,"21-10-2021 01:00:00",12,73,40
+1710,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",NH3,"21-10-2021 01:00:00",1,3,2
+1711,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",SO2,"21-10-2021 01:00:00",6,11,8
+1712,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",CO,"21-10-2021 01:00:00",22,105,25
+1713,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",OZONE,"21-10-2021 01:00:00",3,52,20
+1714,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM2.5,"21-10-2021 01:00:00",41,88,57
+1715,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM10,"21-10-2021 01:00:00",44,115,72
+1716,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",NO2,"21-10-2021 01:00:00",35,86,56
+1717,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",SO2,"21-10-2021 01:00:00",10,28,19
+1718,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",CO,"21-10-2021 01:00:00",16,42,27
+1719,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",OZONE,"21-10-2021 01:00:00",8,76,37
+1720,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",PM2.5,"21-10-2021 01:00:00",28,70,44
+1721,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",PM10,"21-10-2021 01:00:00",36,85,55
+1722,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",NO2,"21-10-2021 01:00:00",4,13,7
+1723,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",NH3,"21-10-2021 01:00:00",2,4,2
+1724,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",SO2,"21-10-2021 01:00:00",12,12,12
+1725,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",CO,"21-10-2021 01:00:00",28,55,30
+1726,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",OZONE,"21-10-2021 01:00:00",2,9,5
+1727,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",PM2.5,"21-10-2021 01:00:00",20,55,32
+1728,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",PM10,"21-10-2021 01:00:00",33,80,53
+1729,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",NO2,"21-10-2021 01:00:00",5,8,6
+1730,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",NH3,"21-10-2021 01:00:00",1,2,1
+1731,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",SO2,"21-10-2021 01:00:00",19,21,20
+1732,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",CO,"21-10-2021 01:00:00",19,42,25
+1733,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",OZONE,"21-10-2021 01:00:00",4,8,6
+1734,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",PM2.5,"21-10-2021 01:00:00",32,65,47
+1735,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",PM10,"21-10-2021 01:00:00",32,83,55
+1736,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",NO2,"21-10-2021 01:00:00",10,29,19
+1737,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",NH3,"21-10-2021 01:00:00",5,9,7
+1738,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",SO2,"21-10-2021 01:00:00",12,12,12
+1739,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",CO,"21-10-2021 01:00:00",18,46,21
+1740,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",OZONE,"21-10-2021 01:00:00",3,25,4
+1741,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",PM2.5,"21-10-2021 01:00:00",81,339,208
+1742,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",PM10,"21-10-2021 01:00:00",110,450,219
+1743,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",NO2,"21-10-2021 01:00:00",5,22,14
+1744,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",NH3,"21-10-2021 01:00:00",3,31,23
+1745,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",SO2,"21-10-2021 01:00:00",8,17,13
+1746,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",CO,"21-10-2021 01:00:00",18,100,39
+1747,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",OZONE,"21-10-2021 01:00:00",3,30,21
+1748,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1749,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1750,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1751,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1752,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1753,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",CO,"21-10-2021 01:00:00",19,52,25
+1754,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",OZONE,"21-10-2021 01:00:00",23,154,154
+1755,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1756,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1757,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",NO2,"21-10-2021 01:00:00",19,37,27
+1758,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",NH3,"21-10-2021 01:00:00",1,6,2
+1759,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",SO2,"21-10-2021 01:00:00",4,36,23
+1760,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",PM2.5,"21-10-2021 01:00:00",18,85,47
+1761,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",PM10,"21-10-2021 01:00:00",21,114,63
+1762,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",NO2,"21-10-2021 01:00:00",15,47,22
+1763,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",NH3,"21-10-2021 01:00:00",4,4,4
+1764,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",SO2,"21-10-2021 01:00:00",15,25,19
+1765,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",CO,"21-10-2021 01:00:00",30,54,38
+1766,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",OZONE,"21-10-2021 01:00:00",12,27,17
+1767,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",PM2.5,"21-10-2021 01:00:00",45,125,70
+1768,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",PM10,"21-10-2021 01:00:00",63,124,92
+1769,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",NO2,"21-10-2021 01:00:00",7,116,61
+1770,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",NH3,"21-10-2021 01:00:00",2,5,4
+1771,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",SO2,"21-10-2021 01:00:00",8,15,9
+1772,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",CO,"21-10-2021 01:00:00",67,111,74
+1773,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",OZONE,"21-10-2021 01:00:00",8,12,10
+1774,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM2.5,"21-10-2021 01:00:00",51,300,123
+1775,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM10,"21-10-2021 01:00:00",58,284,116
+1776,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1777,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NH3,"21-10-2021 01:00:00",2,14,4
+1778,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",SO2,"21-10-2021 01:00:00",1,23,7
+1779,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",CO,"21-10-2021 01:00:00",34,104,80
+1780,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",OZONE,"21-10-2021 01:00:00",15,35,20
+1781,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM2.5,"21-10-2021 01:00:00",26,85,57
+1782,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM10,"21-10-2021 01:00:00",32,89,57
+1783,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NO2,"21-10-2021 01:00:00",3,10,6
+1784,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NH3,"21-10-2021 01:00:00",2,3,3
+1785,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",SO2,"21-10-2021 01:00:00",3,10,4
+1786,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",CO,"21-10-2021 01:00:00",16,60,27
+1787,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",OZONE,"21-10-2021 01:00:00",5,44,19
+1788,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",PM2.5,"21-10-2021 01:00:00",36,86,67
+1789,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",PM10,"21-10-2021 01:00:00",63,102,82
+1790,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",NO2,"21-10-2021 01:00:00",25,64,42
+1791,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",NH3,"21-10-2021 01:00:00",1,6,3
+1792,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",SO2,"21-10-2021 01:00:00",8,28,14
+1793,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",CO,"21-10-2021 01:00:00",19,73,28
+1794,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",OZONE,"21-10-2021 01:00:00",15,99,45
+1795,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",PM2.5,"21-10-2021 01:00:00",55,210,131
+1796,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",PM10,"21-10-2021 01:00:00",60,114,91
+1797,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",NO2,"21-10-2021 01:00:00",26,56,41
+1798,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",NH3,"21-10-2021 01:00:00",1,3,2
+1799,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",SO2,"21-10-2021 01:00:00",1,26,12
+1800,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",CO,"21-10-2021 01:00:00",29,91,38
+1801,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",OZONE,"21-10-2021 01:00:00",1,84,36
+1802,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1803,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1804,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1805,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1806,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1807,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",CO,"21-10-2021 01:00:00",NA,NA,NA
+1808,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",OZONE,"21-10-2021 01:00:00",NA,NA,NA
+1809,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",PM2.5,"21-10-2021 01:00:00",48,144,91
+1810,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",PM10,"21-10-2021 01:00:00",47,103,84
+1811,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",NO2,"21-10-2021 01:00:00",3,21,14
+1812,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",NH3,"21-10-2021 01:00:00",1,5,2
+1813,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",SO2,"21-10-2021 01:00:00",6,16,8
+1814,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",CO,"21-10-2021 01:00:00",4,47,12
+1815,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",OZONE,"21-10-2021 01:00:00",6,79,30
+1816,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM2.5,"21-10-2021 01:00:00",NA,NA,NA
+1817,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM10,"21-10-2021 01:00:00",NA,NA,NA
+1818,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NO2,"21-10-2021 01:00:00",NA,NA,NA
+1819,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NH3,"21-10-2021 01:00:00",NA,NA,NA
+1820,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",SO2,"21-10-2021 01:00:00",NA,NA,NA
+1821,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",CO,"21-10-2021 01:00:00",19,74,24
+1822,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",OZONE,"21-10-2021 01:00:00",22,372,81
+1823,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",PM2.5,"21-10-2021 01:00:00",32,69,51
+1824,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",PM10,"21-10-2021 01:00:00",50,91,74
+1825,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",NO2,"21-10-2021 01:00:00",12,28,19
+1826,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",NH3,"21-10-2021 01:00:00",6,7,7
+1827,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",SO2,"21-10-2021 01:00:00",2,15,4
+1828,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",CO,"21-10-2021 01:00:00",31,85,39
+1829,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",OZONE,"21-10-2021 01:00:00",6,76,31
+1830,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM2.5,"21-10-2021 01:00:00",28,75,54
+1831,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM10,"21-10-2021 01:00:00",36,101,74
+1832,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NO2,"21-10-2021 01:00:00",10,22,15
+1833,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NH3,"21-10-2021 01:00:00",1,3,2
+1834,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",SO2,"21-10-2021 01:00:00",6,28,10
+1835,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",CO,"21-10-2021 01:00:00",34,92,41
+1836,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",OZONE,"21-10-2021 01:00:00",10,116,43
