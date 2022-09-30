@@ -25,7 +25,9 @@ Some links to other kaggle datasets I found unique-
 
 ## Usage
 
-**Fork this repository**
+- **Respond to my issues or create your own issue with a problem statement** I will assign you with the issue
+
+- **Fork this repository**
 
 ```
 git clone link
@@ -33,9 +35,10 @@ cd exploratory_data_analysis
 
 ```
 
-You can do the analysis in a platform of your choice - kaggle , colab or your local machine . Make sure make a **pull request** with a problem that you have solved and be sure to respond to the issues I post here. Tne iisues will mainly be problem statements. 
+You can do the analysis in a platform of your choice - kaggle , colab or your local machine . 
+- Make a **pull request** with a problem that you have solved  
 
-Wait for me to merge and accept the pull request . 
+- Wait for me to merge and accept the pull request . 
 
 ## About HacktobeFest
 
