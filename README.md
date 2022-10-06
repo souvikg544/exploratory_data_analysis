@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
 # Exploratory Data Analysis
 
 ## Datasets
@@ -43,7 +44,7 @@ You can do the analysis in a platform of your choice - kaggle , colab or your lo
 ## About HacktobeFest
 
 https://hacktoberfest.com/
-
+Go through the file CONTRIBUTING.md to know more
 Make some nice set of pull requests and enjoy with your reward kits. Btw hacktoberfest t shirts are quite good 😉.
 
 
