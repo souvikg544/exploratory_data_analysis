@@ -1,0 +1,12 @@
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt
+import seaborn as sns
+df = pd.read_csv("Iris.csv")
+df
+df.info()
+df.describe()
+df.isnull().sum()
+import missingno as msno
+msno.bar(df,figsize=(20,13),color='blue')
+plt.show()
