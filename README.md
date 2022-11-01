@@ -38,45 +38,41 @@ Data Folder contains several interesting datasets . I have limited the datasets 
 
 - **Fork this repository**
 
-```
-git clone https://github.com/<your_github_user_name>/exploratory_data_analysis.git
-cd exploratory_data_analysis
-```
-```
-git remote add upstream https://github.com/souvikg544/exploratory_data_analysis.git
-```
-```
-git remote -v
-```
-```
-git pull upstream master
-```
-**create a new branch so that you can upload the code**
+   ``` sh
+   git clone https://github.com/<your_github_user_name>/exploratory_data_analysis.git
+   cd exploratory_data_analysis
+   
+   git remote add upstream https://github.com/souvikg544/exploratory_data_analysis.git
 
-```
-git checkout -b <your_branch_name>
-```
-Make relavent changes
-**exploratory_data_analysis** Folder
-You can do the analysis in a platform of your choice - kaggle , colab or your local machine .
-``` 
-git add .
+   git remote -v
 
-git commit -m "commit message"
+   git pull upstream master
 
-git push -u origin <your_branch_name_entered_before>
-```
+   # create a new branch so that you can upload the code
 
-* To create a pull request, click on `compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
-* Add an appropriate title and description to your pull request explaining your changes and efforts.
-* Click on `Create Pull Request`
-* now you have successfully created a pull request
-* Make a **pull request** with a problem that you have solved  
-*  Wait for me to merge and accept the pull request . 
+   git checkout -b <your_branch_name>
+  ```
+- Make relavent changes `exploratory_data_analysis` Folder. You can do the analysis in a platform of your choice - kaggle , colab or your local machine .
+
+  ``` sh
+   git add .
+
+   git commit -m "commit message"
+
+   git push -u origin <your_branch_name_entered_before>
+  ```
+
+- To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
+- Add an appropriate title and description to your pull request explaining your changes and efforts.
+- Click on `Create Pull Request`
+- now you have successfully created a pull request
+- Make a **pull request** with a problem that you have solved  
+-  Wait for me to merge and accept the pull request . 
 
 ## About HacktobeFest
 
-[Hacktoberfest22](https://hacktoberfest.com/)
+**[Hacktoberfest22](https://hacktoberfest.com/)**
+
 Go through the file CONTRIBUTING.md to know more
 Make some nice set of pull requests and enjoy with your reward kits. Btw hacktoberfest t shirts are quite good 😉.
 
